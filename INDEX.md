@@ -6,7 +6,7 @@ layout: default
 
 I am a PhD candidate in Economics at the [University of Warwick](https://warwick.ac.uk/fac/soc/economics/) 
 
-My research lies at the intersection of econometrics, time series and financial econometrics.
+My research lies at the intersection of econometrics, time series and financial econometrics. hhh
 
 My main supervisor is [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#). My second main supervisor is [Cesare Robotti](https://www.cesarerobotti.com).
 
