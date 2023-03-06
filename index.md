@@ -18,7 +18,7 @@ My main supervisor is [Eric Renault](https://warwick.ac.uk/fac/soc/economics/sta
 
 - *"On the statistical properties of tests of parameter restrictions in beta-pricing models with a large number of assets"*. 2023. \
 with [Cesare Robotti](https://www.cesarerobotti.com) and [Giulio Rossetti](https://giuliorossetti94.github.io).  \
-[WP link](https://www.dropbox.com/s/sqorypp0qs15dgh/Rossetti_Andriollo_Robotti.pdf?dl=0). Online Appendix: [Mispricing](https://www.dropbox.com/s/6uhz62iu0fahm11/output_misspricing.pdf?dl=0).
+[WP link](https://www.dropbox.com/s/z5v7g2pi2rl3sz1/Rossetti_Andriollo_Robotti.pdf?dl=0). Online Appendix: [Mispricing](https://www.dropbox.com/s/6uhz62iu0fahm11/output_misspricing.pdf?dl=0).
 
 ### Works in Progress
 
