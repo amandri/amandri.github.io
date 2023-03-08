@@ -25,4 +25,4 @@ with [Cesare Robotti](https://www.cesarerobotti.com) and [Giulio Rossetti](https
 - *"Variance Non-causality through Portmanteau"*. 
 
 - *"Spurious and unpriced non-traded factors in financial economics"* \
-with [Cesare Robotti](https://www.cesarerobotti.com), [Philippe Mueller](https://sites.google.com/site/philippebmueller/) and [Xinyi Zhang](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/faculty1/phd_students/xinyi-zhang/) 
+with [Cesare Robotti](https://www.cesarerobotti.com), [Philippe Mueller](https://www.wbs.ac.uk/about/person/philippe-mueller) and [Xinyi Zhang](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/faculty1/phd_students/xinyi-zhang/) 
