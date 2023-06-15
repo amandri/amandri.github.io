@@ -23,7 +23,7 @@ with [Cesare Robotti](https://www.cesarerobotti.com) and [Giulio Rossetti](https
 
 ### Works in Progress
 
-- *"Variance Non-causality through Portmanteau"* with [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#). 
+- *"On the Portmanteau testing of martingales"* with [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#). 
 
 - *"Spurious and unpriced non-traded factors in financial economics"* \
-with [Cesare Robotti](https://www.cesarerobotti.com), [Philippe Mueller](https://www.wbs.ac.uk/about/person/philippe-mueller) and [Xinyi Zhang](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/faculty1/phd_students/xinyi-zhang/) 
+with [Cesare Robotti](https://www.cesarerobotti.com) and [Xinyi Zhang](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/faculty1/phd_students/xinyi-zhang/) 
