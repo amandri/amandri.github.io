@@ -27,10 +27,10 @@ Abstract: \
 
 - *"On Portmanteau causality testing"*
 
-- *"Identification of Impulse Responses Zoo Tamed by Local Projections"* with [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#).
+- *"Identification of Impulse Responses Zoo Tamed by Local Projections"*. with [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#).
 
-- *"Spurious and unpriced non-traded factors in financial economics"* 
-with [Cesare Robotti](https://www.cesarerobotti.com) and [Xinyi Zhang](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/faculty1/phd_students/xinyi-zhang/) \
+- *"Spurious and unpriced non-traded factors in financial economics"*. 
+with [Cesare Robotti](https://www.cesarerobotti.com) and [Xinyi Zhang](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/faculty1/phd_students/xinyi-zhang/). \
 Abstract: \
 *To explain the cross-section of asset returns, a “zoo” of economic factors which are not
 portfolios have been proposed. Since these tend to have minor correlation with the as-
