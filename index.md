@@ -31,9 +31,9 @@ Abstract: \
 
 - *"Spurious and unpriced non-traded factors in financial economics"* \
 with [Cesare Robotti](https://www.cesarerobotti.com) and [Xinyi Zhang](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/faculty1/phd_students/xinyi-zhang/) \
-[Draft coming soon]
-Abstract:
-\ *To explain the cross-section of asset returns, a “zoo” of economic factors which are not
+[Draft coming soon] \
+Abstract:\
+*To explain the cross-section of asset returns, a “zoo” of economic factors which are not
 portfolios have been proposed. Since these tend to have minor correlation with the as-
 set returns, the inference is more prone to suffer the issues of model misspecification
 and/or weak identification/spuriousness. Yet, robust inference on the risk premia has
