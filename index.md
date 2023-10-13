@@ -29,7 +29,7 @@ Abstract: \
 
 - *"Identification of Impulse Responses Zoo Tamed by Local Projections"* with [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#).
 
-- *"Spurious and unpriced non-traded factors in financial economics"* \
+- *"Spurious and unpriced non-traded factors in financial economics"* 
 with [Cesare Robotti](https://www.cesarerobotti.com) and [Xinyi Zhang](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/faculty1/phd_students/xinyi-zhang/) \
 [Draft coming soon] \
 Abstract: \
