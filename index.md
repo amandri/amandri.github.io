@@ -42,5 +42,6 @@ often been overlooked and limited efforts have been devoted to “domesticate”
 factors. With respect to the most commonly used asset returns, this paper aims to provide a comprehensive re-examination of the non-traded factor zoo published in top
 academic journals. We confirm that the vast majority of the original model specifications suffer the aforementioned problems. This motivates to conduct robust risk premia inference, that leads to strong evidence that most of the original nontradables are
 indeed unpriced. The findings are more drastic when we study the single-nontradable
-model and control for popular traded factors.*
+model and control for popular traded factors.*\
+[WP link][Non-traded Factor Zoo]
 
