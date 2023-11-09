@@ -16,7 +16,7 @@ My main supervisor is [Eric Renault](https://warwick.ac.uk/fac/soc/economics/sta
 
 ### Working papers
 
-- *"On the statistical properties of tests of parameter restrictions in beta-pricing models with a large number of assets"*. 2023.
+- **"On the statistical properties of tests of parameter restrictions in beta-pricing models with a large number of assets"**. 2023.
 with [Cesare Robotti](https://www.cesarerobotti.com) and [Giulio Rossetti](https://giuliorossetti94.github.io). \
 [NEW WP link](https://www.dropbox.com/s/e84bnxvhqwgubom/Rossetti_Andriollo_Robotti-2.pdf?dl=0).
  Online Appendix: [Mispricing](https://www.dropbox.com/s/6uhz62iu0fahm11/output_misspricing.pdf?dl=0). Slides: [SoFiE conference 2023](https://www.dropbox.com/s/as0rnxq13xefbkq/sofie.pdf?dl=0).\
@@ -25,13 +25,13 @@ Abstract: \
 
 ### Works in Progress
 
-- *"On testing the martingale difference hypothesis through Portmanteau"* \
+- **"On testing the martingale difference hypothesis through Portmanteau"** \
   Abstract: TBD.
 
-- *"Identification of Impulse Responses Zoo Tamed by Local Projections"*. with [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#).\
+- **"Identification of Impulse Responses Zoo Tamed by Local Projections"**. with [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#).\
   Abstract: TBD.
 
-- *"Spurious and unpriced non-traded factors in financial economics"*. 
+- **"Spurious and unpriced non-traded factors in financial economics"**. 
 with [Cesare Robotti](https://www.cesarerobotti.com) and [Xinyi Zhang](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/faculty1/phd_students/xinyi-zhang/). \
 Abstract: \
 *To explain the cross-section of asset returns, a “zoo” of economic factors which are not
@@ -43,5 +43,5 @@ factors. With respect to the most commonly used asset returns, this paper aims t
 academic journals. We confirm that the vast majority of the original model specifications suffer the aforementioned problems. This motivates to conduct robust risk premia inference, that leads to strong evidence that most of the original nontradables are
 indeed unpriced. The findings are more drastic when we study the single-nontradable
 model and control for popular traded factors.*\
-[WP link][Non-traded Factor Zoo]
+[WP link] [Non-traded Factor Zoo](https://www.dropbox.com/scl/fi/iy83j3wae7k4pp1k6gxa7/all_nontraded.xlsx?rlkey=8wl8ym9ygqgz91v4krchj03y3&dl=0).
 
