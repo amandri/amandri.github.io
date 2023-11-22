@@ -10,6 +10,8 @@ My research lies at the intersection of econometrics, time series and financial 
 
 My main supervisor is [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#). My second main supervisor is [Cesare Robotti](https://www.cesarerobotti.com).
 
+E-mail: amedeo[dot]andriollo[at]warwick[dot]ac[dot]uk
+
 ## Research
 
 # **(feedback is welcome!)**
