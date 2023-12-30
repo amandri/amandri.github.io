@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-I am a PhD candidate in Economics at the [University of Warwick](https://warwick.ac.uk/fac/soc/economics/) 
+I am a PhD candidate in Economics at the [University of Warwick](https://warwick.ac.uk/fac/soc/economics/).
 
 My research lies at the intersection of econometrics, time series and financial econometrics.
 
