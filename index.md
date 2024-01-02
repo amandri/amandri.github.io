@@ -27,7 +27,7 @@ Abstract: \
 
 - **"Spurious and unpriced non-traded factors in financial economics"**.\ 
 with [Cesare Robotti](https://www.cesarerobotti.com) and [Xinyi Zhang](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/faculty1/phd_students/xinyi-zhang/). \
-[WP link (coming soon)] [Non-traded Factor Zoo](https://www.dropbox.com/scl/fi/iy83j3wae7k4pp1k6gxa7/all_nontraded.xlsx?rlkey=8wl8ym9ygqgz91v4krchj03y3&dl=0).
+[WP link (coming soon)] [Non-traded Factor Zoo](https://www.dropbox.com/scl/fi/iy83j3wae7k4pp1k6gxa7/all_nontraded.xlsx?rlkey=8wl8ym9ygqgz91v4krchj03y3&dl=0). \
 Abstract: \
 *To explain the cross-section of asset returns, a “zoo” of economic factors which are not
 portfolios have been proposed. Since these tend to have minor correlation with the as-
