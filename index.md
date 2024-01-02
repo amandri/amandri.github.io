@@ -18,7 +18,7 @@ E-mail: amedeo[dot]andriollo[at]warwick[dot]ac[dot]uk
 
 ### Working papers
 
-- **"On the statistical properties of tests of parameter restrictions in beta-pricing models with a large number of assets"**. 2023.
+- **"On the statistical properties of tests of parameter restrictions in beta-pricing models with a large number of assets"**. 2023.\
 with [Cesare Robotti](https://www.cesarerobotti.com) and [Giulio Rossetti](https://giuliorossetti94.github.io). \
 [NEW WP link](https://www.dropbox.com/s/e84bnxvhqwgubom/Rossetti_Andriollo_Robotti-2.pdf?dl=0).
  Online Appendix: [Mispricing](https://www.dropbox.com/s/6uhz62iu0fahm11/output_misspricing.pdf?dl=0). Slides: [SoFiE conference 2023](https://www.dropbox.com/s/as0rnxq13xefbkq/sofie.pdf?dl=0).\
@@ -30,10 +30,10 @@ Abstract: \
 - **"On testing the martingale difference hypothesis through Portmanteau"** \
   Abstract: TBD.
 
-- **"Identification of Impulse Responses Zoo Tamed by Local Projections"**. with [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#).\
+- **"Identification of Impulse Responses Zoo Tamed by Local Projections"**.\ with [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#).\
   Abstract: TBD.
 
-- **"Spurious and unpriced non-traded factors in financial economics"**. 
+- **"Spurious and unpriced non-traded factors in financial economics"**.\ 
 with [Cesare Robotti](https://www.cesarerobotti.com) and [Xinyi Zhang](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/faculty1/phd_students/xinyi-zhang/). \
 Abstract: \
 *To explain the cross-section of asset returns, a “zoo” of economic factors which are not
