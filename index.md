@@ -25,8 +25,8 @@ Abstract: \
 *We study the size and power properties of t-tests of parameter restrictions for newly- designed methods that aim at reliably estimating risk premia in linear asset pricing models when the cross-sectional dimension is large. By simulating a variety of empirically calibrated data generating processes for sample sizes that are typically en- countered in empirical work, we evaluate the finite-sample performance of the test statistics for scenarios where the factor structure is (i) strong and pervasive; (ii) spurious; (iii) weak/semi-strong and pervasive; (iv) weak/semi-strong and not pervasive; and (v) sparse. PCA-based methods such as those of Lettau and Pelger (2020), Giglio and Xiu (2021), and Giglio et al. (2022) work best when the factors are strong and pervasive, and they continue to exhibit good finite-sample properties when the factors are spurious. However, when the factor structure is semi-strong and pervasive, the split-sample estimator of Anatolyev and Mikusheva (2021) performs substantially better than the PCA-based estimators listed above. In the case of sparse loadings or when the factors are semi-strong and not pervasive, none of the candidate methods displays satisfactory finite-sample properties.*
 
 - **"Spurious and unpriced non-traded factors in financial economics"**. 2024. with [Cesare Robotti](https://www.cesarerobotti.com) and [Xinyi Zhang](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/faculty1/phd_students/xinyi-zhang/). \
-[WP link](https://www.dropbox.com/scl/fi/y4v7zo8v3ihvq75hg401d/ARZ_draft.pdf?rlkey=46wed4q0h01sti0kxojmx4rzw&dl=0).
- Data: [Non-traded Factor Zoo](https://www.dropbox.com/scl/fi/iy83j3wae7k4pp1k6gxa7/all_nontraded.xlsx?rlkey=8wl8ym9ygqgz91v4krchj03y3&dl=0). \
+[WP link].
+ Data: [Non-traded Factor Zoo](https://www.dropbox.com/scl/fi/r232uhq32qsfadvj61xut/all_nontraded.xlsx?rlkey=hi2y880eehtozz6d1ugnewcx0&dl=0). \
 Abstract: \
 *To explain the cross-section of asset returns, a “zoo” of economic factors which are not
 portfolios have been proposed. Since these tend to have minor correlation with the as-
