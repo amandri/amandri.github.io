@@ -28,15 +28,7 @@ Abstract: \
 [WP link].
  Data: [Non-traded Factor Zoo](https://www.dropbox.com/scl/fi/r232uhq32qsfadvj61xut/all_nontraded.xlsx?rlkey=hi2y880eehtozz6d1ugnewcx0&dl=0). \
 Abstract: \
-*To explain the cross-section of asset returns, a “zoo” of economic factors which are not
-portfolios have been proposed. Since these tend to have minor correlation with the as-
-set returns, the inference is more prone to suffer the issues of model misspecification
-and/or weak identification/spuriousness. Yet, robust inference on the risk premia has
-often been overlooked and limited efforts have been devoted to “domesticate” such
-factors. With respect to the most commonly used asset returns, this paper aims to provide a comprehensive re-examination of the non-traded factor zoo published in top
-academic journals. We confirm that the vast majority of the original model specifications suffer the aforementioned problems. This motivates to conduct robust risk premia inference, that leads to strong evidence that most of the original nontradables are
-indeed unpriced. The findings are more drastic when we study the single-nontradable
-model and control for popular traded factors.*
+*To explain the cross-section of asset returns, a “zoo” of economic factors which are not portfolios have been proposed. Since these tend to have minor correlation with the asset returns, the inference is more prone to suffer the issues of model misspecification and/or weak identification/spuriousness. Yet, robust inference on the risk premia has often been overlooked and limited efforts have been devoted to “domesticate” such factors. With respect to the most commonly used asset returns, this paper aims to provide a comprehensive re-examination of the non-traded factor zoo published in top academic journals. We confirm that the vast majority of the original model specifications suffer the aforementioned problems. This motivates to conduct robust risk premia inference, that leads to strong evidence that most of the original nontradables are indeed unpriced. The findings are more drastic when we study the single-nontradable model and control for popular traded factors.*
 
 ### Works in Progress
 
