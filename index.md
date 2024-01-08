@@ -32,7 +32,7 @@ Abstract: \
 
 ### Works in Progress
 
-- **"On testing the martingale difference hypothesis through Portmanteau"** \
+- **"Portmanteau Testing for the Joint Martingale Difference Hypothesis"** \
   Abstract: TBD.
 
 - **"Identification of Impulse Responses Zoo Tamed by Local Projections"**. with [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#).\
