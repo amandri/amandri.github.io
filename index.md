@@ -26,7 +26,7 @@ Abstract: \
 
 - **"Spurious and unpriced non-traded factors in financial economics"**. 2024. with [Cesare Robotti](https://www.cesarerobotti.com) and [Xinyi Zhang](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/faculty1/phd_students/xinyi-zhang/). \
 [WP link].
- Data: [Non-traded Factor Zoo](https://www.dropbox.com/scl/fi/r232uhq32qsfadvj61xut/all_nontraded.xlsx?rlkey=hi2y880eehtozz6d1ugnewcx0&dl=0). \
+ Data: [Non-traded Factor Zoo (monthly)](https://www.dropbox.com/scl/fi/r232uhq32qsfadvj61xut/all_nontraded.xlsx?rlkey=hi2y880eehtozz6d1ugnewcx0&dl=0); [Non-traded PCs (monthly)](https://www.dropbox.com/scl/fi/m79gjt08dcryfdxjzr6ke/data1eqGX.xls?rlkey=ylu43t0tva62lf4t7r4vidfh7&dl=0). \
 Abstract: \
 *To explain the cross-section of asset returns, a “zoo” of economic factors which are not portfolios have been proposed. Since these tend to have minor correlation with the asset returns, the inference is more prone to suffer the issues of model misspecification and/or weak identification/spuriousness. Yet, robust inference on the risk premia has often been overlooked and limited efforts have been devoted to “domesticate” such factors. With respect to the most commonly used asset returns, this paper aims to provide a comprehensive re-examination of the non-traded factor zoo published in top academic journals. We confirm that the vast majority of the original model specifications suffer the aforementioned problems. This motivates to conduct robust risk premia inference, that leads to strong evidence that most of the original nontradables are indeed unpriced. The findings are more drastic when we study the single-nontradable model and control for popular traded factors.*
 
