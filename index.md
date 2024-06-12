@@ -33,7 +33,7 @@ Abstract: \
 ### Works in Progress
 
 - **"Causality versus Correlation: an Asymmetric Portmanteau Test"** \
-  Abstract: TBD. [Slides](https://www.dropbox.com/scl/fi/k2w0tivtz4set55ph8cwx/causality.pdf?rlkey=wsj4q3sd41o8un3kq7ehjvrp6&dl=0)
+  Abstract: TBD.
 
 - **"Identification of Impulse Responses Zoo Tamed by Local Projections"**. with [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#).\
   Abstract: TBD.
