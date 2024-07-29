@@ -12,6 +12,8 @@ My main supervisor is [Eric Renault](https://warwick.ac.uk/fac/soc/economics/sta
 
 E-mail: amedeo.andriollo[at]warwick.ac.uk
 
+**I will be on the Job Market in 2024-2025.**
+
 ## Research
 
 # **(feedback is welcome!)**
@@ -20,7 +22,6 @@ E-mail: amedeo.andriollo[at]warwick.ac.uk
 
 - **"Causality versus Serial Correlation: an Asymmetric Portmanteau Test"**. 2024. \
 [WP link] \
-Abstract: 
 *Coming soon*
 
 ### Working Papers
@@ -39,7 +40,7 @@ Abstract: \
 
 ### Works in Progress
 
-- **"Identification of Impulse Responses Zoo Tamed by Local Projections"**. with [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#).\
+- **"Identification of Impulse Responses Zoo Tamed by Local Projections"**. with [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#).
 
-- **"Social interactions under cluster dependence"**. with [Luis E. Candelaria](https://lecandelaria.github.io).\
+- **"Social interactions under cluster dependence"**. with [Luis E. Candelaria](https://lecandelaria.github.io).
 
