@@ -27,12 +27,14 @@ E-mail: amedeo.andriollo[at]warwick.ac.uk
 ### Working Papers
 
 - **"Misspecification and Weak Identification in the Nontraded Factor Zoo"**. 2024. with [Cesare Robotti](https://www.cesarerobotti.com) and [Xinyi Zhang](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/faculty1/phd_students/xinyi-zhang/). \
-[WP link](https://www.dropbox.com/scl/fi/i9bcyvk2w3wkdrf6j0g7j/ARZ_nontrade.pdf?rlkey=bdo9kogduzr6kcnujgnbh8t8f&dl=0). Slides: [SoFiE 2024](https://www.dropbox.com/scl/fi/j1mg11h6q6nuqrlj16ire/nontraded_sofie24.pdf?rlkey=bp1vgedtnbz2vswbyg3b6zrab&dl=0). \
+[WP link](assets/pdf/ARZ_3.pdf). Slides: [SoFiE 2024](https://www.dropbox.com/scl/fi/j1mg11h6q6nuqrlj16ire/nontraded_sofie24.pdf?rlkey=bp1vgedtnbz2vswbyg3b6zrab&dl=0). \
  Data: [Nontraded Factor Zoo (monthly)](https://www.dropbox.com/scl/fi/1odnqde9onqskfjj30yjt/all_nontraded.xlsx?rlkey=fwhvv8okvfbhdvb5l44srvulv&dl=0); [Nontraded PCs (monthly)](https://www.dropbox.com/scl/fi/tz45uxrols0kazt17y85a/data1eqGX.xls?rlkey=xgos0xsjbdca40l38rgisygth&dl=0). \
 Abstract: \
 *To explain the cross-section of asset returns, a zoo of economic factors that are not portfolio excess returns has been proposed. In contrast to traded factors, the non-traded factors tend to exhibit lower correlations with the asset returns. Standard inference on risk premium therefore tends to be more fragile, and the issue of weak identification might be exacerbated by the degree of model misspecification. Yet, robust inference has often been overlooked by many empirical studies, while limited efforts have been devoted to domesticating such factors. After re-evaluating the non-traded factor zoo, we find that the vast majority of the original model specifications published in top academic journals suffer from the aforementioned fragilities. Robust inference indicates that most of the proposed non-traded factors are unpriced in the commonly used portfolios. The findings are more drastic when considering multiple hypothesis testing adjustments, or when incorporating the market factor as an additional control. However, when summarizing the non-traded factors via PCA, we find that the zoo does carry some non-zero pricing information.*
 
 - **"On the statistical properties of tests of parameter restrictions in beta-pricing models with a large number of assets"**. 2023. with [Cesare Robotti](https://www.cesarerobotti.com) and [Giulio Rossetti](https://giuliorossetti94.github.io). \
+[WP link](assets/pdf/ARR_statistical_.pdf).
+  
 [WP link](https://www.cesarerobotti.com/wp-content/uploads/2023/01/ARR_statistical.pdf).
  Online Appendix: [Mispricing](https://www.dropbox.com/s/6uhz62iu0fahm11/output_misspricing.pdf?dl=0). Slides: [SoFiE 2023](https://www.dropbox.com/s/as0rnxq13xefbkq/sofie.pdf?dl=0).\
 Abstract: \
