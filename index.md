@@ -47,9 +47,9 @@ Abstract: \
 
 ## Teaching 
 
-- **University of Warwick**: Postgraduate level: *EC9A3 Advanced Econometric Theory*, 2021-4, taught by Prof. Renault and Prof. Candelaria | Undergraduate level: *EC226 Econometrics*, 2021-2, taught by Prof. Smith and Prof. Nagasawa; *EC204 (Economics 2)*, 2021, taught by prof. Smith; *EC201 Macroeconomics 2*, 2021, taught by prof. Pancrazi.
-- **Queen Mary University of London**: Graduate level: *Economics of Inequality (EMAP)*, 2022, taught by Prof. Lee.
-- **University of Bologna**: Graduate level: Macroeonomics 3, 2018, taught by Prof. Bottazzi
+- **University of Warwick**. Postgraduate level: *EC9A3 Advanced Econometric Theory*, 2021-4, taught by Prof. Renault and Prof. Candelaria | Undergraduate level: *EC226 Econometrics*, 2021-2, taught by Prof. Smith and Prof. Nagasawa; *EC204 (Economics 2)*, 2021, taught by prof. Smith; *EC201 Macroeconomics 2*, 2021, taught by prof. Pancrazi.
+- **Queen Mary University of London**. Graduate level: *Economics of Inequality (EMAP)*, 2022, taught by Prof. Lee.
+- **University of Bologna**. Graduate level: *Macroeonomics 3*, 2018, taught by Prof. Bottazzi
 
 
 
