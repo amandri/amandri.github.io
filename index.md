@@ -40,9 +40,11 @@ Abstract: \
 
 ### Works in Progress
 
-- **"Identification of Impulse Responses Zoo Tamed by Local Projections"**. with [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#).
-
 - **"Social interactions under cluster dependence"**. with [Luis E. Candelaria](https://lecandelaria.github.io).
+
+- **"An Asymmetric Generalized Spectral Tests for the Martingale Difference Hypothesis: High-Dimensional Time Series and Panel Data"**
+
+- **"Identification of Impulse Responses Zoo Tamed by Local Projections"**. with [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#).
 
 
 ## Teaching 
