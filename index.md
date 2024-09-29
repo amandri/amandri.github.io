@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-I am a PhD candidate in Economics at the [University of Warwick](https://warwick.ac.uk/fac/soc/economics/).
+I am a PhD candidate in Economics at the [University of Warwick](https://warwick.ac.uk/fac/soc/economics/), , originally from [Bassano del Grappa, Italy](https://en.wikipedia.org/wiki/Bassano_del_Grappa). Warwick Website: [click here](https://warwick.ac.uk/fac/soc/economics/staff/aandriollo/) 
 
 My research lies at the intersection of econometrics, time series and financial econometrics.
 
@@ -12,7 +12,7 @@ My main supervisor is [Eric Renault](https://warwick.ac.uk/fac/soc/economics/sta
 
  **I will be on the Job Market in 2024-2025.**
 
-E-mail: amedeo.andriollo[at]warwick.ac.uk
+E-mail: amedeo.andriollo[at]warwick.ac.uk 
 
 ## Research
 
