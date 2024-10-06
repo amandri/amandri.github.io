@@ -6,7 +6,7 @@ layout: default
 
 I am a PhD candidate in Economics at the [University of Warwick](https://warwick.ac.uk/fac/soc/economics/), originally from [Bassano del Grappa, Italy](https://en.wikipedia.org/wiki/Bassano_del_Grappa). Warwick Website: [here](https://warwick.ac.uk/fac/soc/economics/staff/aandriollo/).
 
-My research lies at the intersection of econometrics, time series and financial econometrics, with a particular focus on asset returns and macroeconomic data. My research agenda is divided into two main themes: analyzing nonlinear dependence in macroeconomic time series and examining empirical asset pricing methodologies.
+My research lies at the intersection of econometrics, time series and financial econometrics, with a particular focus on asset returns and macroeconomic data. 
 
 My main supervisor is [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#). My second main supervisor is [Cesare Robotti](https://www.cesarerobotti.com).
 
