@@ -4,11 +4,11 @@ layout: default
 
 ## About me
 
-I am a PhD candidate in Economics at the [University of Warwick](https://warwick.ac.uk/fac/soc/economics/), originally from [Bassano del Grappa, Italy](https://en.wikipedia.org/wiki/Bassano_del_Grappa). Warwick Website: [here](https://warwick.ac.uk/fac/soc/economics/staff/aandriollo/).
+I am a PhD candidate in Economics at the [University of Warwick](https://warwick.ac.uk/fac/soc/economics/). Warwick Website: [here](https://warwick.ac.uk/fac/soc/economics/staff/aandriollo/).
 
 My research lies at the intersection of econometrics, time series and financial econometrics, with a particular focus on asset returns and macroeconomic data. 
 
-My main supervisor is [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#). My second main supervisor is [Cesare Robotti](https://www.cesarerobotti.com).
+My primary supervisor is [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#). My second supervisor is [Cesare Robotti](https://www.cesarerobotti.com).
 
  **I am currently on the 2024-2025 Job Market.**
 
@@ -47,9 +47,12 @@ Abstract: \
 
 - **University of Warwick**. \
   Postgraduate level: EC9A3 Advanced Econometric Theory, 2021-4, *taught by Eric Renault and Luis Candelaria*.\
-   Undergraduate level: EC226 Econometrics, 2021-2, *taught by Jeremy Smith and Kenichi Nagasawa*; EC204 Economics 2, 2021, *taught by Jennifer Smith*; EC201 Macroeconomics 2, 2021, *taught by Roberto Pancrazi*.
+  \
+   Undergraduate level: EC226 Econometrics, 2021-2, *taught by Jeremy Smith and Kenichi Nagasawa*; EC204 Economics 2, 2021, *taught by Jennifer Smith*; EC201 Macroeconomics 2, 2021, *taught by Roberto Pancrazi*.\
+  
 - **Queen Mary University of London**. \
-  Graduate level: Economics of Inequality (EMAP), 2022, *taught by Sang Yoon Lee*.
+  Graduate level: Economics of Inequality (EMAP), 2022, *taught by Sang Yoon Lee*.\
+  
 - **University of Bologna**. \
   Graduate level: Macroeonomics 3, 2018, *taught by Laura Bottazzi*
 
