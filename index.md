@@ -46,7 +46,7 @@ Abstract: \
 ## Teaching 
 
 - **University of Warwick**. \
-  Postgraduate level: EC9A3 Advanced Econometric Theory, 2021-4, *taught by Eric Renault and Luis Candelaria*.\
+  Postgraduate level: EC9A3 Advanced Econometric Theory, 2021-4, *taught by Eric Renault and Luis Candelaria*.
   
    Undergraduate level: EC226 Econometrics, 2021-2, *taught by Jeremy Smith and Kenichi Nagasawa*; EC204 Economics 2, 2021, *taught by Jennifer Smith*; EC201 Macroeconomics 2, 2021, *taught by Roberto Pancrazi*.
   
@@ -54,7 +54,7 @@ Abstract: \
   Graduate level: Economics of Inequality (EMAP), 2022, *taught by Sang Yoon Lee*.
   
 - **University of Bologna**. \
-  Graduate level: Macroeonomics 3, 2018, *taught by Laura Bottazzi*
+  Graduate level: Macroeonomics 3, 2018, *taught by Laura Bottazzi*.
 
 
 
