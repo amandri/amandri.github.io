@@ -42,6 +42,7 @@ Abstract: \
 ### Works in Progress
 
 - **"Social interactions under cluster dependence"**. with [Luis E. Candelaria](https://lecandelaria.github.io).
+- **"The Impulse Responses Zoo Tamed by Local Projections"** with [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#).
 
 ## Teaching 
 
