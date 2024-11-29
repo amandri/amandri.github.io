@@ -8,7 +8,7 @@ I am a PhD candidate in Economics at the [University of Warwick](https://warwick
 
 My research lies at the intersection of econometrics, time series and financial econometrics, with a particular focus on asset returns and macroeconomic data. 
 
-My primary supervisor is [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#). My second supervisor is [Cesare Robotti](https://www.cesarerobotti.com).
+References: Prof. [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#) (Primary supervisor), Prof. [Cesare Robotti](https://www.cesarerobotti.com), Prof. [Giovanni Ricco](https://www.giovanni-ricco.com), Prof. [Luis E. Candelaria](https://lecandelaria.github.io).
 
  **I am currently on the 2024-2025 Job Market.**
 
