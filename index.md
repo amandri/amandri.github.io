@@ -8,9 +8,7 @@ I am a PhD candidate in Economics at the [University of Warwick](https://warwick
 
 My research lies at the intersection of econometrics, time series and financial econometrics, with a particular focus on asset returns and macroeconomic data. 
 
-References: Prof. [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#) (Primary supervisor), Prof. [Cesare Robotti](https://www.cesarerobotti.com), Prof. [Giovanni Ricco](https://www.giovanni-ricco.com), Prof. [Luis E. Candelaria](https://lecandelaria.github.io).
-
- **I am currently on the 2024-2025 Job Market.**
+I will join the [Finance Department](https://www.finance.dauphine.fr/en/) at [Université Paris Dauphine - PSL](https://dauphine.psl.eu) as an Assistant Professor in September 2025.
 
 E-mail: amedeo.andriollo[at]warwick.ac.uk 
 
