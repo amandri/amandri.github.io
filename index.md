@@ -19,7 +19,7 @@ E-mail: amedeo.andriollo[at]warwick.ac.uk
 ### Job Market Paper
 
 - **"Causality versus Serial Correlation: an Asymmetric Portmanteau Test"**. 2024. \
-[WP link](assets/pdf/JMP_Andriollo.pdf).\
+[WP link](assets/pdf/JMP_Andriollo.pdf) [slides (ICEEE 25)](assets/pdf/Causality_vs_SerialCorr.pdf).\
 Abstract: \
 *I study the problem of testing for noncausality in mean (one-sided conditional mean independence) between two multivariate time series within the class of testing procedures based on serial cross-correlation. Existing tests in this class either require parametrization of the joint process or are characterized under the null hypothesis of mutual independence. As a result, these tests may suffer from size distortions when misspecifying inverse causality, i.e., dependencies in the causal direction opposite to the one being tested. I propose a modified Portmanteau test statistic that incorporates a correction term to offset the influence of inverse causality, thereby eliminating the need to fully model the joint dynamics. I demonstrate that the proposed test statistic converges asymptotically to a standard normal distribution under the null hypothesis of noncausality in mean, resulting in correct asymptotic size. As an empirical application, I explore the statistical properties of my proposed test by studying three widely used measures of macroeconomic structural shocks, showing that the proposed test provides more reliable inference than the benchmark test.*
 
