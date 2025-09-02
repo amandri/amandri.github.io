@@ -4,13 +4,10 @@ layout: default
 
 ## About me
 
-I am a PhD candidate in Economics at the [University of Warwick](https://warwick.ac.uk/fac/soc/economics/). Warwick Website: [here](https://warwick.ac.uk/fac/soc/economics/staff/aandriollo/).
-
+I am an Assistant Professor at the [Finance Department](https://www.finance.dauphine.fr/en/) (DRM) at [Université Paris Dauphine - PSL](https://dauphine.psl.eu). I obtained my PhD in Economics from the University of Warwick in June 2025. 
 My research lies at the intersection of econometrics, time series and financial econometrics, with a particular focus on asset returns and macroeconomic data. 
 
-I will join the [Finance Department](https://www.finance.dauphine.fr/en/) at [Université Paris Dauphine - PSL](https://dauphine.psl.eu) as an Assistant Professor in September 2025.
-
-E-mail: amedeo.andriollo[at]warwick.ac.uk 
+E-mail: amedeo.andriollo[at]dauphine.psl.eu 
 
 ## Research
 
@@ -40,9 +37,11 @@ Abstract: \
 ### Works in Progress
 
 - **"Social Interactions under Cluster Dependence"**. with [Luis E. Candelaria](https://lecandelaria.github.io).
-- **"The Impulse Responses Zoo Tamed by Local Projections"**. with [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#).
 
 ## Teaching 
+
+- **Université Paris Dauphine – PSL**. \
+  Master level: Business Analytics (M2-270), 2025.
 
 - **University of Warwick**. \
   Postgraduate level: EC9A3 Advanced Econometric Theory, 2021-4, *taught by Eric Renault and Luis Candelaria*.
