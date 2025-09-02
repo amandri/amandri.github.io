@@ -4,7 +4,10 @@ layout: default
 
 ## About me
 
-I am an Assistant Professor at the [Finance Department](https://www.finance.dauphine.fr/en/) (DRM) at [Université Paris Dauphine - PSL](https://dauphine.psl.eu). I obtained my PhD in Economics from the University of Warwick in June 2025. 
+I am an Assistant Professor at the [Finance Department](https://www.finance.dauphine.fr/en/) (DRM) at [Université Paris Dauphine - PSL](https://dauphine.psl.eu). 
+
+I obtained my PhD in Economics from the University of Warwick in June 2025. 
+
 My research lies at the intersection of econometrics, time series and financial econometrics, with a particular focus on asset returns and macroeconomic data. 
 
 E-mail: amedeo.andriollo[at]dauphine.psl.eu 
