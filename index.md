@@ -16,14 +16,12 @@ E-mail: amedeo.andriollo[at]dauphine.psl.eu
 
 **(feedback is welcome!)**
 
-### Job Market Paper
+### Working Papers
 
 - **"Causality versus Serial Correlation: an Asymmetric Portmanteau Test"**. 2024. \
-[WP link](assets/pdf/JMP_Andriollo.pdf). Slides: [ICEEE 25](assets/pdf/Causality_vs_SerialCorr.pdf).\
+[Full WP link](assets/pdf/causalityvsserial.pdf). Recipient of the [2025 Carlo Giannini](https://www.side-iea.it/events/conferences/iceee-2025) prize \
 Abstract: \
-*I study the problem of testing for noncausality in mean (one-sided conditional mean independence) between two multivariate time series within the class of testing procedures based on serial cross-correlation. Existing tests in this class either require parametrization of the joint process or are characterized under the null hypothesis of mutual independence. As a result, these tests may suffer from size distortions when misspecifying inverse causality, i.e., dependencies in the causal direction opposite to the one being tested. I propose a modified Portmanteau test statistic that incorporates a correction term to offset the influence of inverse causality, thereby eliminating the need to fully model the joint dynamics. I demonstrate that the proposed test statistic converges asymptotically to a standard normal distribution under the null hypothesis of noncausality in mean, resulting in correct asymptotic size. As an empirical application, I explore the statistical properties of my proposed test by studying three widely used measures of macroeconomic structural shocks, showing that the proposed test provides more reliable inference than the benchmark test.*
-
-### Working Papers
+*This paper studies specification testing in dynamic linear models in the presence of omitted variables. The null hypothesis of interest is weak exogeneity: structural shocks have zero conditional expectation given their own past and the past of omitted variables. Existing tests based on quadratic forms of serial cross-correlations suffer from size distortions because their variance incorporates symmetric dependence in both directions, including causality from past shocks to present omitted variables (inverse causality). This paper proposes a correction that offsets the contribution of inverse causality, yielding an asymmetric Portmanteau statistic that is asymptotically normal under the null, without requiring parametric modeling of the joint dynamics. An empirical application revisits Diercks et al. (2024) and rejects weak exogeneity of Baker et al. (2016)’s EPU shocks. Addressing this failure by augmenting the information set with additional controls leads to a positive inflation response, pointing to a supply-side shock interpretation.*
 
 - **"Misspecification and Weak Identification in the Nontraded Factor Zoo"**. 2024. with [Cesare Robotti](https://www.cesarerobotti.com) and [Xinyi Zhang](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/faculty1/phd_students/xinyi-zhang/). \
 [WP link](assets/pdf/ARZ-3.pdf). Slides: [SoFiE 2024](https://www.dropbox.com/scl/fi/j1mg11h6q6nuqrlj16ire/nontraded_sofie24.pdf?rlkey=bp1vgedtnbz2vswbyg3b6zrab&dl=0). \
