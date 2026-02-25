@@ -18,7 +18,7 @@ E-mail: amedeo.andriollo[at]dauphine.psl.eu
 
 ### Working Papers
 
-- **"Causality versus Serial Correlation: an Asymmetric Portmanteau Test"**. 2024. \
+- **"Causality versus Serial Correlation: an Asymmetric Portmanteau Test"**. 2026. \
 [Full WP link](assets/pdf/causalityvsserial.pdf). Recipient of the [2025 Carlo Giannini](https://www.side-iea.it/events/conferences/iceee-2025) prize \
 Abstract: \
 *This paper studies specification testing in dynamic linear models in the presence of omitted variables. The null hypothesis of interest is weak exogeneity: structural shocks have zero conditional expectation given their own past and the past of omitted variables. Existing tests based on quadratic forms of serial cross-correlations suffer from size distortions because their variance incorporates symmetric dependence in both directions, including causality from past shocks to present omitted variables (inverse causality). This paper proposes a correction that offsets the contribution of inverse causality, yielding an asymmetric Portmanteau statistic that is asymptotically normal under the null, without requiring parametric modeling of the joint dynamics. An empirical application revisits Diercks et al. (2024) and rejects weak exogeneity of Baker et al. (2016)’s EPU shocks. Addressing this failure by augmenting the information set with additional controls leads to a positive inflation response, pointing to a supply-side shock interpretation.*
