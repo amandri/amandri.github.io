@@ -42,7 +42,7 @@ Abstract: \
 ### Dormant WP
 
 - **"On the statistical properties of tests of parameter restrictions in beta-pricing models with a large number of assets"**. 2023. with [Cesare Robotti](https://www.cesarerobotti.com) and [Giulio Rossetti](https://giuliorossetti94.github.io). \
-[WP link](assets/pdf/ARR_statistical_.pdf).\
+[WP link](assets/pdf/ARR_statistical_.pdf).
 
 ## Teaching 
 
