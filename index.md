@@ -21,11 +21,13 @@ E-mail: amedeo.andriollo[at]dauphine.psl.eu
 - **"Causality versus Serial Correlation: an Asymmetric Portmanteau Test"**. 2026. \
 [SSRN](https://ssrn.com/abstract=6302579). Recipient of the [2025 Carlo Giannini](https://www.side-iea.it/events/conferences/iceee-2025) prize. 
 
-- **"Misspecification and Weak Identification in the Nontraded Factor Zoo"**. 2025. with [Cesare Robotti](https://www.cesarerobotti.com), [Giulio Rossetti](https://giuliorossetti94.github.io) and [Xinyi Zhang](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/faculty1/phd_students/xinyi-zhang/). \
+- **"Misspecification and Weak Identification in the Nontraded Factor Zoo"**. 2025. \
+  with [Cesare Robotti](https://www.cesarerobotti.com), [Giulio Rossetti](https://giuliorossetti94.github.io) and [Xinyi Zhang](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/faculty1/phd_students/xinyi-zhang/). \
 [WP link](https://giuliorossetti94.github.io/assets/pdf/andriollo-robotti-rossetti-zhang-nontraded-factor-zoo.pdf). \
  Data: [Nontraded Factor Zoo (monthly)](https://www.dropbox.com/scl/fi/3uc9455qwugk3vvpuzsir/all_nontraded_monthly_Oct2024.xlsx?rlkey=lyhmffscqe3af28kfqggs4a6d&dl=0). 
 
-- **"On the statistical properties of tests of parameter restrictions in beta-pricing models with a large number of assets"**. 2025. with [Cesare Robotti](https://www.cesarerobotti.com) and [Giulio Rossetti](https://giuliorossetti94.github.io). \
+- **"On the statistical properties of tests of parameter restrictions in beta-pricing models with a large number of assets"**. 2025. \
+  with [Cesare Robotti](https://www.cesarerobotti.com) and [Giulio Rossetti](https://giuliorossetti94.github.io). \
 [WP link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5112225).
 
 ### Works in Progress
