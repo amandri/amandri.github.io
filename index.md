@@ -25,9 +25,10 @@ Abstract: \
 
 - **"Misspecification and Weak Identification in the Nontraded Factor Zoo"**. 2025. with [Cesare Robotti](https://www.cesarerobotti.com), [Giulio Rossetti](https://giuliorossetti94.github.io) and [Xinyi Zhang](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/faculty1/phd_students/xinyi-zhang/). \
 [WP link](https://giuliorossetti94.github.io/assets/pdf/ARRZ.pdf). \
- Data: [Nontraded Factor Zoo (monthly)](https://www.dropbox.com/scl/fi/3uc9455qwugk3vvpuzsir/all_nontraded_monthly_Oct2024.xlsx?rlkey=lyhmffscqe3af28kfqggs4a6d&dl=0). \
-Abstract: \
-*To explain the cross-section of asset returns, a zoo of economic factors that are not portfolio excess returns has been proposed. In contrast to traded factors, the non-traded factors tend to exhibit lower correlations with the asset returns. Standard inference on risk premium therefore tends to be more fragile, and the issue of weak identification might be exacerbated by the degree of model misspecification. Yet, robust inference has often been overlooked by many empirical studies, while limited efforts have been devoted to domesticating such factors. After re-evaluating the non-traded factor zoo, we find that the vast majority of the original model specifications published in top academic journals suffer from the aforementioned fragilities. Robust inference indicates that most of the proposed non-traded factors are unpriced in the commonly used portfolios. The findings are more drastic when considering multiple hypothesis testing adjustments, or when incorporating the market factor as an additional control. However, when summarizing the non-traded factors via PCA, we find that the zoo does carry some non-zero pricing information.*
+ Data: [Nontraded Factor Zoo (monthly)](https://www.dropbox.com/scl/fi/3uc9455qwugk3vvpuzsir/all_nontraded_monthly_Oct2024.xlsx?rlkey=lyhmffscqe3af28kfqggs4a6d&dl=0). 
+
+- **"On the statistical properties of tests of parameter restrictions in beta-pricing models with a large number of assets"**. 2023. with [Cesare Robotti](https://www.cesarerobotti.com) and [Giulio Rossetti](https://giuliorossetti94.github.io). \
+[WP link](assets/pdf/ARR_statistical_.pdf).
 
 ### Works in Progress
 
@@ -38,11 +39,6 @@ Abstract: \
 - **"Demand and Supply in Commodity Markets"**. with [Evgenia Passari](https://sites.google.com/site/evgeniapassari/) and [Michel A. Robe](https://robins.richmond.edu/faculty/mrobe/).
 
 - **"Theories as Regularizers"**. with [Juan F. Imbet](https://jfimbett.github.io).
-
-### Dormant WP
-
-- **"On the statistical properties of tests of parameter restrictions in beta-pricing models with a large number of assets"**. 2023. with [Cesare Robotti](https://www.cesarerobotti.com) and [Giulio Rossetti](https://giuliorossetti94.github.io). \
-[WP link](assets/pdf/ARR_statistical_.pdf).
 
 ## Teaching 
 
