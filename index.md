@@ -19,16 +19,14 @@ E-mail: amedeo.andriollo[at]dauphine.psl.eu
 ### Working Papers
 
 - **"Causality versus Serial Correlation: an Asymmetric Portmanteau Test"**. 2026. \
-[SSRN](https://ssrn.com/abstract=6302579). Recipient of the [2025 Carlo Giannini](https://www.side-iea.it/events/conferences/iceee-2025) prize. \
-Abstract: \
-*This paper studies specification testing in dynamic linear models in the presence of omitted variables. The null hypothesis of interest is weak exogeneity: structural shocks have zero conditional expectation given their own past and the past of omitted variables. Existing tests based on quadratic forms of serial cross-correlations suffer from size distortions because their variance incorporates symmetric dependence in both directions, including causality from past shocks to present omitted variables (inverse causality). This paper proposes a correction that offsets the contribution of inverse causality, yielding an asymmetric Portmanteau statistic that is asymptotically normal under the null, without requiring parametric modeling of the joint dynamics. An empirical application revisits Diercks et al. (2024) and rejects weak exogeneity of Baker et al. (2016)’s EPU shocks. Addressing this failure by augmenting the information set with additional controls leads to a positive inflation response, pointing to a supply-side shock interpretation.*
+[SSRN](https://ssrn.com/abstract=6302579). Recipient of the [2025 Carlo Giannini](https://www.side-iea.it/events/conferences/iceee-2025) prize. 
 
 - **"Misspecification and Weak Identification in the Nontraded Factor Zoo"**. 2025. with [Cesare Robotti](https://www.cesarerobotti.com), [Giulio Rossetti](https://giuliorossetti94.github.io) and [Xinyi Zhang](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/faculty1/phd_students/xinyi-zhang/). \
-[WP link](https://giuliorossetti94.github.io/assets/pdf/ARRZ.pdf). \
+[WP link](https://giuliorossetti94.github.io/assets/pdf/andriollo-robotti-rossetti-zhang-nontraded-factor-zoo.pdf). \
  Data: [Nontraded Factor Zoo (monthly)](https://www.dropbox.com/scl/fi/3uc9455qwugk3vvpuzsir/all_nontraded_monthly_Oct2024.xlsx?rlkey=lyhmffscqe3af28kfqggs4a6d&dl=0). 
 
-- **"On the statistical properties of tests of parameter restrictions in beta-pricing models with a large number of assets"**. 2023. with [Cesare Robotti](https://www.cesarerobotti.com) and [Giulio Rossetti](https://giuliorossetti94.github.io). \
-[WP link](assets/pdf/ARR_statistical_.pdf).
+- **"On the statistical properties of tests of parameter restrictions in beta-pricing models with a large number of assets"**. 2025. with [Cesare Robotti](https://www.cesarerobotti.com) and [Giulio Rossetti](https://giuliorossetti94.github.io). \
+[WP link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5112225).
 
 ### Works in Progress
 
