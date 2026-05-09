@@ -2,16 +2,16 @@
 layout: default
 title: Home
 permalink: /
-description: "Amedeo Andriollo — PhD candidate in Economics at the University of Warwick. Research in econometrics, time series, and financial econometrics."
+description: "Amedeo Andriollo — "
 ---
 
 # About me
 
-I am a PhD candidate in Economics at the [University of Warwick](https://warwick.ac.uk/fac/soc/economics/).
+I am an Assistant Professor of Finance at the [Université Paris Dauphine – PSL (DRM)](https://dauphine.psl.eu). 
 
 My research lies at the intersection of econometrics, time series, and financial econometrics.
 
-My main supervisor is [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#). My second main supervisor is [Cesare Robotti](https://www.cesarerobotti.com).
+I graduated from the [University of Warwick](https://warwick.ac.uk/fac/soc/economics/) under the supervisor of [Eric Renault](https://warwick.ac.uk/fac/soc/economics/staff/emrrenault/#), [Cesare Robotti](https://www.cesarerobotti.com), and [Giovanni Ricco](https://www.giovanni-ricco.com)
 
 {% assign visible_items = site.data.latest | slice: 0, 4 %}
 
