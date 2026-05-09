@@ -1,0 +1,30 @@
+# Latest Updates — shown on the homepage (up to 4 items)
+#
+# Fields:
+#   date:  YYYY-MM-DD (required)
+#   type:  paper | teaching | code | talk | other (required)
+#   badge: Short label shown in blue pill, e.g. "New paper", "Updated" (optional)
+#   title: Short description (required)
+#   link:  URL or site-relative path, e.g. /research/ or https://... (required)
+#   pin:   true — keeps the item visible forever regardless of age (optional)
+#
+# Add new items at the TOP of this list.
+
+- date: 2023-01-01
+  type: paper
+  badge: "Working paper"
+  title: "On the Statistical Properties of Tests of Parameter Restrictions in Beta-Pricing Models with a Large Number of Assets"
+  link: /research/
+  pin: true
+
+- date: 2023-01-01
+  type: paper
+  badge: "Work in progress"
+  title: "Variance Non-causality through Portmanteau: a reappraisal"
+  link: /research/
+
+- date: 2023-01-01
+  type: paper
+  badge: "Work in progress"
+  title: "Spurious and Unpriced Non-traded Factors in Financial Economics"
+  link: /research/

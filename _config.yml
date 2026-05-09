@@ -1,7 +1,51 @@
-logo: /assets/img/ame2.png
 theme: jekyll-theme-minimal
-title: Amedeo Andriollo 
-description:
-  
+logo: /assets/img/ame2.png
+title: Amedeo Andriollo
+tagline: "Econometrics & Financial Econometrics — University of Warwick"
+description: "Personal website of Amedeo Andriollo, PhD candidate at the University of Warwick specialising in Econometrics, Time Series, and Financial Econometrics."
+baseurl: ""
+url: https://amandri.github.io
+# google_analytics: G-XXXXXXXXXX  # TODO: add your Google Analytics 4 ID
+
+lang: en-US
+
+author:
+  name: Amedeo Andriollo
+  email: amedeo.andriollo@dauphine.psl.eu
+
+# Social profile URLs — fill in and uncomment as needed
+social:
+  name: Amedeo Andriollo
+  links:
+    # - https://github.com/YOUR_GITHUB_USERNAME
+    # - https://linkedin.com/in/YOUR_LINKEDIN
+    # - https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID
+    # - https://www.researchgate.net/profile/YOUR_RG_PROFILE
+    # - https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=YOUR_SSRN_ID
+
+# Per-icon URLs (used in the sidebar) — fill in and uncomment
+author_links:
+  twitter: ""          # e.g. "amandri_eco" (handle only, no @)
+  google_scholar: ""   # e.g. "8ZU-UgYAAAAJ&hl=en"
+  researchgate: ""     # e.g. "Amedeo-Andriollo"
+  github: ""           # e.g. "amandri"
+  linkedin: ""         # e.g. "amedeo-andriollo"
+
+markdown: kramdown
+
 show_downloads: true
 
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+exclude:
+  - improvements.md
+  - documentation.md
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - jekyll-theme-minimal.gemspec
+  - script/
+  - docs/

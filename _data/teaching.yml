@@ -1,0 +1,38 @@
+# Teaching Data
+# ─────────────────────────────────────────────────────────────
+# current_courses: shown at the top of the Teaching page with
+#   week-by-week accordion panels and slide download buttons.
+#
+# past_teaching: shown below, grouped by year.
+#
+# HOW TO ADD A CURRENT COURSE
+# ─────────────────────────────────────────────────────────────
+# - code: EC9XX
+#   name: Course Name
+#   level: BSc / MSc / PhD
+#   term: "Autumn 2026"
+#   description: "One-line description shown on the page."
+#   weeks:
+#     - week: 1
+#       topics:
+#         - name: Topic title
+#           slides: filename.pdf          # place file in assets/slides/
+#           annotated: filename_annot.pdf # optional
+#
+# HOW TO ADD A PAST COURSE
+# ─────────────────────────────────────────────────────────────
+# - year: 2025
+#   courses:
+#     - code: EC9XX
+#       name: Course Name
+#       level: BSc
+
+current_courses: []
+
+past_teaching: []
+# Uncomment and fill in when you have teaching to list, e.g.:
+# - year: 2026
+#   courses:
+#     - code: EC9XX
+#       name: Financial Econometrics
+#       level: BSc
