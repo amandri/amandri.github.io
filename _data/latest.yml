@@ -10,21 +10,9 @@
 #
 # Add new items at the TOP of this list.
 
-- date: 2023-01-01
+- date: 2026-03-13
   type: paper
-  badge: "Working paper"
-  title: "On the Statistical Properties of Tests of Parameter Restrictions in Beta-Pricing Models with a Large Number of Assets"
+  badge: "Updated"
+  title: "Causality versus Serial Correlation: an Asymmetric Portmanteau Test"
   link: /research/
   pin: true
-
-- date: 2023-01-01
-  type: paper
-  badge: "Work in progress"
-  title: "Variance Non-causality through Portmanteau: a reappraisal"
-  link: /research/
-
-- date: 2023-01-01
-  type: paper
-  badge: "Work in progress"
-  title: "Spurious and Unpriced Non-traded Factors in Financial Economics"
-  link: /research/
