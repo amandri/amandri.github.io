@@ -54,22 +54,22 @@ current_courses:
       - week: 1-2
         topics:
           - name: Session 1: Equity Return Predictability
-            EAP_2026: EAP_2026_S01.pdf
+            slides: EAP_2026_S01.pdf
 
       - week: 2-3
         topics:
           - name: Session 2: Cross Section of Stock Returns
-            EAP_2026: EAP_2026_S02.pdf
+            slides: EAP_2026_S02.pdf
       
       - week: 3-4
         topics:
           - name: Session 3: Towards the Factor Zoo
-            EAP_2026: EAP_2026_S03.pdf 
+            slides: EAP_2026_S03.pdf 
 
       - week: 4-5
         topics:
           - name: Session 4: Statistical Asset Pricing
-            EAP_2026: EAP_2026_S04.pdf
+            slides: EAP_2026_S04.pdf
 
 
 past_teaching:
