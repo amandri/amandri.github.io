@@ -11,7 +11,7 @@ description: "Research projects by Amedeo Andriollo. Any feedback is welcome!"
   <h3 class="paper-title">
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6302579" target="_blank">Causality versus Serial Correlation: an Asymmetric Portmanteau Test</a>
   </h3>
-  [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6302579" target="_blank">SSRN</a>] — 2026 &nbsp; 
+  <p class="paper-authors"> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6302579" target="_blank">SSRN</a>] — 2026 &nbsp; 
   <details class="paper-abstract">
     <summary>Abstract</summary>
     <p>This paper studies specification testing in dynamic linear models in the presence of omitted variables. The null hypothesis of interest is weak exogeneity: structural shocks have zero conditional expectation given their own past and the past of omitted variables. Existing tests based on quadratic forms of serial cross-correlations suffer from size distortions because their variance incorporates symmetric dependence in both directions, including causality from past shocks to present omitted variables (inverse causality). This paper proposes a correction that offsets the contribution of inverse causality, yielding an asymmetric Portmanteau statistic that is asymptotically normal under the null, without requiring parametric modeling of the joint dynamics. An empirical application revisits Diercks et al. (2024) and rejects weak exogeneity of Baker et al. (2016)'s EPU shocks. Addressing this failure by augmenting the information set with additional controls leads to a positive inflation response, pointing to a supply-side shock interpretation.</p>
@@ -61,5 +61,5 @@ description: "Research projects by Amedeo Andriollo. Any feedback is welcome!"
 
 <div class="paper-card">
   <h3 class="paper-title"> Theories as Regularizers </h3>
-  <p class="paper-authors">with <a href="https://jfimbett.github.io" target="_blank"></a>
+  <p class="paper-authors">with <a href="https://jfimbett.github.io" target="_blank">Juan Felipe Imbet</a>
 </div>
