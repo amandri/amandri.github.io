@@ -5,18 +5,10 @@ permalink: /data-code/
 description: "Data and code resources by Amedeo Andriollo."
 ---
 
-*This section will be updated with data and code related to my research projects.*
+# Nontraded Factor Zoo
 
-<!-- Example entry — uncomment and fill in when you have a project to share:
+I have worked with [Cesare Robotti](https://www.cesarerobotti.com){:target="_blank"}, [Giulio Rossetti](https://giuliorossetti94.github.io){:target="_blank"} and [Xinyi Zhang](https://warwick.ac.uk/fac/soc/wbs/subjects/finance/faculty1/phd_students/xinyi-zhang/){:target="_blank"} to gather a factor zoo of nontradables.
 
-## Project Name
+[Click here](https://www.dropbox.com/scl/fi/9gqpcse5gmjlwhty1pqfs/all_nontraded_monthly_Dec2024.xlsx?rlkey=8pgxmd5ceqx9cs2nlhwa2srz3&dl=0){:target="_blank"} for the Dec 2024 version. A more updated version is coming in the next few months.
 
-Brief description of the project.
-
-Check the GitHub repo [HERE](https://github.com/YOUR_REPO){:target="_blank"}.
-
-You can install the package using pip:
-```bash
-pip install your-package
-```
--->
+When using it, do not forget to cite our paper ("Misspecification and Weak Identification in the Nontraded Factor Zoo").
