@@ -2,7 +2,8 @@
 layout: default
 title: Teaching
 permalink: /teaching/
-description: "Teaching experience and materials by Amedeo Andriollo at the University of Warwick."
+description: "Teaching experience and course materials by Giulio Rossetti at University of Warwick, including Financial Econometrics, Matrix Algebra, and Statistical Methods."
+keywords: "teaching, university of warwick, financial econometrics, matrix algebra, statistical methods, course materials"
 ---
 
 {% if site.data.teaching.current_courses and site.data.teaching.current_courses.size > 0 %}
@@ -11,7 +12,7 @@ description: "Teaching experience and materials by Amedeo Andriollo at the Unive
 {% for course in site.data.teaching.current_courses %}
 <div class="course-card">
   <div class="course-header">
-    <h2>{{ course.code }} — {{ course.name }}</h2>
+    <h2>{{ course.code }} - {{ course.name }}</h2>
     <span class="course-meta">{{ course.level }} | {{ course.term }}</span>
   </div>
 
@@ -66,10 +67,8 @@ description: "Teaching experience and materials by Amedeo Andriollo at the Unive
 
 # Past Teaching
 
-**University of Warwick**
-
 {% assign recent_years = site.data.teaching.past_teaching | where_exp: "item", "item.year >= 2024" %}
-{% assign older_years  = site.data.teaching.past_teaching | where_exp: "item", "item.year < 2024" %}
+{% assign older_years = site.data.teaching.past_teaching | where_exp: "item", "item.year < 2024" %}
 
 {% for year_data in recent_years %}
 <div class="year-section">
@@ -89,7 +88,7 @@ description: "Teaching experience and materials by Amedeo Andriollo at the Unive
 {% if older_years.size > 0 %}
 <details class="older-teaching-accordion">
   <summary class="older-teaching-header">
-    <span>Older</span>
+    <span>Older (2021-2023)</span>
     <span class="older-toggle"></span>
   </summary>
   <div class="older-teaching-content">
@@ -109,8 +108,4 @@ description: "Teaching experience and materials by Amedeo Andriollo at the Unive
     {% endfor %}
   </div>
 </details>
-{% endif %}
-
-{% if site.data.teaching.past_teaching.size == 0 and site.data.teaching.current_courses.size == 0 %}
-*Teaching information will be added here.*
 {% endif %}
