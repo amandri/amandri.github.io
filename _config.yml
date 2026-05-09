@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
 logo: /assets/img/ame2.png
 title: Amedeo Andriollo
-tagline: "Econometrics & Financial Econometrics — University of Warwick"
-description: "Personal website of Amedeo Andriollo, PhD candidate at the University of Warwick specialising in Econometrics, Time Series, and Financial Econometrics."
+tagline: "Econometrics & Financial Econometrics —  Université Paris Dauphine PSL"
+description: "Personal website of Amedeo Andriollo, AP of Finance at the Université Paris Dauphine - PSL specialising in Econometrics, Time Series, and Financial Econometrics."
 baseurl: ""
 url: https://amandri.github.io
 # google_analytics: G-XXXXXXXXXX  # TODO: add your Google Analytics 4 ID
@@ -17,19 +17,19 @@ author:
 social:
   name: Amedeo Andriollo
   links:
-    # - https://github.com/YOUR_GITHUB_USERNAME
-    # - https://linkedin.com/in/YOUR_LINKEDIN
-    # - https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID
+     - https://github.com/amandri
+     - https://linkedin.com/in/amedeo-andriollo-7a531a133/en
+     - https://scholar.google.com/citations?user=OYUh3CMAAAAJ&hl=en&oi=sra
     # - https://www.researchgate.net/profile/YOUR_RG_PROFILE
     # - https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=YOUR_SSRN_ID
 
 # Per-icon URLs (used in the sidebar) — fill in and uncomment
 author_links:
-  twitter: ""          # e.g. "amandri_eco" (handle only, no @)
-  google_scholar: ""   # e.g. "8ZU-UgYAAAAJ&hl=en"
+  twitter: "amedandr"          # e.g. "amandri_eco" (handle only, no @)
+  google_scholar: "OYUh3CMAAAAJ&hl=en"   # e.g. "8ZU-UgYAAAAJ&hl=en"
   researchgate: ""     # e.g. "Amedeo-Andriollo"
-  github: ""           # e.g. "amandri"
-  linkedin: ""         # e.g. "amedeo-andriollo"
+  github: "amandri"           # e.g. "amandri"
+  linkedin: "amedeo-andriollo-7a531a133/en"         # e.g. "amedeo-andriollo"
 
 markdown: kramdown
 
