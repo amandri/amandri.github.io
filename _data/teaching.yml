@@ -53,22 +53,22 @@ current_courses:
     weeks:
       - week: 1-2
         topics:
-          - name: Session 1: Equity Return Predictability
+          - name: "Session 1: Equity Return Predictability"
             slides: EAP_2026_S01.pdf
 
       - week: 2-3
         topics:
-          - name: Session 2: Cross Section of Stock Returns
+          - name: "Session 2: Cross Section of Stock Returns"
             slides: EAP_2026_S02.pdf
       
       - week: 3-4
         topics:
-          - name: Session 3: Towards the Factor Zoo
+          - name: "Session 3: Towards the Factor Zoo"
             slides: EAP_2026_S03.pdf 
 
       - week: 4-5
         topics:
-          - name: Session 4: Statistical Asset Pricing
+          - name: "Session 4: Statistical Asset Pricing"
             slides: EAP_2026_S04.pdf
 
 
@@ -76,48 +76,48 @@ past_teaching:
   - year: 2025
     courses:
       - code: M5I270-150
-        name: Business modelling with Python
+        name: "Business modelling with Python"
         term: Winter 2025
         level: MSc
 
   - year: 2024
     courses:
       - code: EC9A3 (University of Warwick)
-        name: Advanced Econometric Theory (Time-series econometrics)
+        name: "Advanced Econometric Theory (Time-series econometrics)"
         level: MRes
 
   - year: 2023
     courses:
       - code: EC9A3 (University of Warwick)
-        name: Advanced Econometric Theory (Time-series econometrics)
+        name: "Advanced Econometric Theory (Time-series econometrics)"
         level: MRes
 
    - year: 2022
     courses:
       - code: EC9A3 (University of Warwick)
-        name: Advanced Econometric Theory
+        name: "Advanced Econometric Theory"
         level: MRes            
       - code: EC226 (University of Warwick)
-        name: Econometrics 1
+        name: "Econometrics 1"
         level: BSc
       - code: EMAP (Queen Mary University of London, Dep. of Economics)
-        name: Economics of Inequality
+        name: "Economics of Inequality"
         level: Msc (Professional Masters)
 
    - year: 2021
     courses:
       - code: EC204/EC239 (University of Warwick)
-        name: Economics 2
+        name: "Economics 2"
         level: BSc            
       - code: EC226 (University of Warwick)
-        name: Econometrics 1
+        name: "Econometrics 1"
         level: BSc
       - code: EC201 (University of Warwick)
-        name: Macroeconomics 2
+        name: "Macroeconomics 2"
         level: BSc
 
    - year: 2018
     courses:
       - code: EMAP (University of Bologna)
-        name: Macroeconomics 3 (now: Advanced Macroeconomics)
+        name: "Macroeconomics 3 (now: Advanced Macroeconomics)"
         level: MSc            
