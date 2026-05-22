@@ -10,9 +10,9 @@
 #
 # Add new items at the TOP of this list.
 
-- date: 2026-03-13
+- date: 2026-05-22
   type: paper
-  badge: "Updated Draft"
+  badge: "Updated JMP!"
   title: "Causality versus Serial Correlation: an Asymmetric Portmanteau Test"
   link: /research/
   pin: true
