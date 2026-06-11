@@ -71,6 +71,12 @@ current_courses:
           - name: "Session 4: Statistical Asset Pricing"
             slides: EAP_2026_S04.pdf
 
+      - week: "6"   
+        topics:
+          - name: "In-class Exam using AIs"
+            slides: aandriollo_exam_AI.pdf  
+
+
 
 past_teaching:
   - year: 2025
