@@ -5,12 +5,13 @@ permalink: /data-code/
 description: "Data and code resources by Amedeo Andriollo."
 ---
 
-# An Imputed Walk Down Wall Street (Kaouthar Dian)
+# An Imputed Walk Down Wall Street (Kaoutar's Thesis)
 
-Under my supervision, Kaouthar Dian has writter her master's thesis: "An Imputed Walk Down Wall Street: Imputation Strategies
-and Portfolio Performance in Empirical Asset Pricing". 
+Under my supervision, [Kaoutar Dian](https://www.linkedin.com/in/kaouthardian/){:target="_blank"} has written her master’s thesis: “An Imputed Walk Down Wall Street: Imputation Strategies and Portfolio Performance in Empirical Asset Pricing”.
 
-[Click here](https://www.dropbox.com/scl/fi/72muh6rnw87ondoauqiq8/Doc5_KaoutharDian_ImputationStrategiesModelSelectionForecasting_AmedeoAndriollo.pdf?rlkey=lkofgmfdes9xw1ytx00431ifc&dl=0){:target="_blank"} to read it.
+The thesis compares recent methods for imputing missing firm characteristics and evaluates their effects on return forecasts and portfolio performance. A distinctive contribution is a double-sorting exercise that sorts stocks by both their level of missingness and their characteristic values, thereby providing a direct portfolio-based assessment of whether imputation preserves or distorts economically relevant information. The results show that greater imputation accuracy does not necessarily translate into better investment performance.
+
+[Click here](https://www.dropbox.com/scl/fi/72muh6rnw87ondoauqiq8/Doc5_KaoutharDian_ImputationStrategiesModelSelectionForecasting_AmedeoAndriollo.pdf?rlkey=lkofgmfdes9xw1ytx00431ifc&dl=0){:target="_blank"} to read the full thesis.
 
 # Nontraded Factor Zoo
 
