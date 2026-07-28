@@ -1,9 +1,16 @@
 ---
 layout: default
-title: Data & Code
+title: Data, Code & Theses
 permalink: /data-code/
 description: "Data and code resources by Amedeo Andriollo."
 ---
+
+# An Imputed Walk Down Wall Street (Kaouthar Dian)
+
+Under my supervision, Kaouthar Dian has writter her master's thesis: "An Imputed Walk Down Wall Street: Imputation Strategies
+and Portfolio Performance in Empirical Asset Pricing". 
+
+[Click here](https://www.dropbox.com/scl/fi/72muh6rnw87ondoauqiq8/Doc5_KaoutharDian_ImputationStrategiesModelSelectionForecasting_AmedeoAndriollo.pdf?rlkey=lkofgmfdes9xw1ytx00431ifc&dl=0){:target="_blank"} to read it.
 
 # Nontraded Factor Zoo
 

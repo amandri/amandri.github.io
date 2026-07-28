@@ -10,6 +10,14 @@
 #
 # Add new items at the TOP of this list.
 
+- date: 2026-07-28
+  type: thesis
+  badge: "Supervision"
+  title: "Kaouthar Dian's Imputed walk down Wall Street"
+  link: /data-code/
+  pin: true
+
+
 - date: 2026-05-22
   type: paper
   badge: "Updated WP"
