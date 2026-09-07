@@ -4,7 +4,7 @@
 \begin{itemize}
 \item \key{Email:} \href{mailto:amedeo.andriollo@dauphine.psl.eu}{amedeo.andriollo@dauphine.psl.eu}
 \item \key{Assessment:} 150-minute final in-class examination.
-\item \key{Office hours:} feel free to (DO) come.
+\item \key{Office hours:} feel free to (DO) come: B612.
 \item Slides/materials are updated regularly. Report a typo/mistake: corrections help the class.
 \item \key{This session:} a first-pass sell-side target study before valuation, with AI as augmentation.
 \item \key{Key references:} i) Rosenbaum \& Pearl, Chapter 1 ``Study the Target'' (Exhibit 1.3); ii) official OpenAI and Anthropic guidance; iii) Anthropic AI Fluency.
@@ -66,7 +66,7 @@ A compact target study is neither due diligence nor valuation. It creates the wo
 \[
 g_t=\frac{R_t}{R_{t-1}}-1,\qquad g_t=v_t+p_t.
 \]
-Here $v_t$ and $p_t$ are disclosed volume and price/mix \textbf{contribution points} to revenue growth.\\
+Here $v_t$ and $p_t$ are disclosed volume and price/mix contribution points to revenue growth.\\
 \textbf{Question answered:} how did sales change, and which disclosed contribution drove the change?
 \end{block}
 \column{0.49\textwidth}
@@ -81,8 +81,8 @@ m_t=\frac{\text{EBITDA}_t}{R_t}.
 \smallrule
 Growth vs. margin: they can move differently, as margin also depends on cost recovery, utilization, mix and other operating factors. \\ 
 \key{TargetCo:} 2025A utilization exceeds 2022A, while the 2025A reported margin is lower. \\
-$\hookrightarrow$ analytical tension, not causality.
-\sourcewithref{Rosenbaum \& Pearl (2013), Ch. 1.}{S1-36}
+$\hookrightarrow$ analytical tension (not clear causality).
+%\sourcewithref{Rosenbaum \& Pearl (2013), Ch. 1.}{S1-36}
 }
 
 \LiveAndFullFrame{S1-05}{Baseline design: today's first assignment}{
@@ -101,17 +101,18 @@ Main comparison & \multicolumn{3}{l}{Baseline output/work process versus redo ou
 \end{center}
 \begin{alertblock}{Interpretation discipline}
 The baseline is not a ChatGPT vs. Claude comparison: students may formulate different prompts.\\
-$\hookrightarrow$ It records different student/AI workflows under a common finance assignment, material, time and prompt budget.
+$\hookrightarrow$ different student/AI workflows under a common finance assignment, material, time and prompt budget.
 \end{alertblock}
 }
 
 \LiveAndFullFrame{S1-06}{Baseline prompt sketch}{
 \begin{block}{AI groups: one message, with student freedom}
-You may edit this modest starting sketch before sending your one permitted baseline message.\\ 
+You may edit this basic starting sketch before sending your one message.\\ 
 The VP request remains the separate finance assignment.
 \medskip
 \begin{quote}\small
-Using the supplied TargetCo profile, help me prepare the one-page note requested by the VP. Use the supplied material as the source. Do not value the company.
+Using the supplied TargetCo profile, help me prepare the one-page note requested by the VP.\\
+Use the supplied material as the source. Do not value the company.
 \end{quote}
 \end{block}
 \key{Human-only group:} complete the same finance assignment from the same profile, without AI.\par\medskip
@@ -141,7 +142,7 @@ One page. Use only the supplied material. Do not value TargetCo.\\ AI groups ret
 \end{itemize}
 \end{columns}
 \vfill
-\centering\Large \textcolor{CourseNavy}{Start now. We compare outputs in 20'.}
+\centering\Large \textcolor{CourseNavy}{Start now. We compare outputs in about 20'.}
 }
 
 \LiveAndFullFrame{S1-08}{A stronger single-shot instruction}{
@@ -156,7 +157,7 @@ Use only the supplied TargetCo profile as the permitted source. Prepare one conc
 \end{enumerate}
 For each material number or management statement, use a brief profile/table locator. Keep observed data, management statements and analyst inferences distinct.
 \end{block}
-\sourcewithref{Spoiler of the full sequence.}{S1-50}
+\sourcewithref{Spoiler of the full sequence (three messages).}{S1-50}
 }
 
 \LiveAndFullFrame{S1-09}{Four observable dimensions for the VP note}{
@@ -173,7 +174,7 @@ Certainty vs. Uncert. & Keeps observed data and management statements distinct; 
 VP usefulness & Uses exactly three ranked questions. Each says which later judgement could change. The note is concise and decision-useful.\\
 \bottomrule
 \end{tabularx}
-\vspace{2pt}
+\vspace{4pt}\\
 \textbf{Rate yourself:} \risk{0} absent, incorrect; \textbf{1} present but partial, or mechanically copied; \good{2} meets standards.
 \sourcewithref{Common rubric for baseline, redo and optional homework.}{S1-38}
 }
@@ -189,7 +190,7 @@ VP usefulness & Uses exactly three ranked questions. Each says which later judge
 \item Ask only questions whose answers could change a later valuation judgement.
 \end{enumerate}
 \column{0.48\textwidth}
-\key{Not shown yet}
+\key{Yet to come:}
 \begin{itemize}
 \item complete model answer;
 \item complete ranked-question set;
@@ -198,13 +199,13 @@ VP usefulness & Uses exactly three ranked questions. Each says which later judge
 \item final source reconciliation.
 \end{itemize}
 \end{columns}
-\begin{block}{Professional destination at the halfway point}
+\begin{block}{The key for a good starting point:}
 Make a small evidence pack decision-useful while preserving what it does not establish.
 \end{block}
-\sourcewithref{What the two-page Target Co profile can support}{S1-37}
+%\sourcewithref{What the two-page Target Co profile can support}{S1-37}
 }
 
-\LiveAndFullFrame{S1-11}{Working interpretation: revenue as bridge of contributions}{
+\LiveAndFullFrame{S1-11}{Working interpretation about revenues}{
 \begin{center}
 \small
 \begin{tabular}{lrrrr}
@@ -247,7 +248,7 @@ Its answer could change revenue confidence, risk and later peer selection.
 \sourcewithref{What the two-page Target Co profile can support}{S1-37}
 }
 
-\LiveAndFullFrame{S1-13}{LLMs generate conditional text; they do not supply a truth test}{
+\LiveAndFullFrame{S1-13}{LLMs generate conditional text, not truth}{
 \footnotesize
 \begin{tabularx}{\textwidth}{@{}p{29mm}X@{}}
 \toprule
@@ -262,7 +263,8 @@ Inference / generation & Running the already-trained model: given current contex
 \bottomrule
 \end{tabularx}
 \begin{alertblock}{Analytical implication}
-An answer can be grammatically convincing while misstating a source, skipping a number or inventing a causal story. Language quality is not source fidelity.
+An answer can be grammatically convincing while misstating a source, skipping a number or inventing a causal story (e.g., check "AI allucination"). 
+Language quality is not source fidelity.
 \end{alertblock}
 \sourcewithref{Model, Application Tool in workflow}{S1-39}
 }
@@ -281,7 +283,7 @@ p_\theta(x_1,\ldots,x_T\mid c)=\prod_{t=1}^{T}p_\theta(x_t\mid x_{<t},c).
 \begin{alertblock}{Consequence}
 Changing a prompt or context changes the distribution of possible outputs. It does not create a criterion for whether an output is true, financially reasonable or properly sourced.
 \end{alertblock}
-\sourcewithref{Model, Application Tool in workflow}{S1-39}
+%\sourcewithref{Model, Application Tool in workflow}{S1-39}
 }
 
 \LiveAndFullFrame{S1-15}{Context design: evidence, authority and salience}{
@@ -289,14 +291,14 @@ Changing a prompt or context changes the distribution of possible outputs. It do
 \begin{columns}[T,onlytextwidth]
 \column{0.49\textwidth}
 \begin{block}{A bit of terminology:}
-\textbf{Evidence:} information from the (permitted) source used to support a claim/calculation.\par\smallskip
+\textbf{Evidence:} information from the (restricted) source used to support a claim/calculation.\par\smallskip
 \textbf{Source authority:} the status assigned by the analyst/task specifying which source governs a claim when sources differ.\par\smallskip
 \textbf{Salience:} how strongly a supplied item effectively influences generation.\\ 
 Analyst importance does not imply model salience.
 \end{block}
 \column{0.49\textwidth}
 \begin{block}{TargetCo contrast}
-The profile is \textbf{authoritative for this exercise}.\\ 
+The profile is \textbf{authoritative} for this exercise.\\ 
 M-01 and M-02 inside it remain \textbf{management statements}, not independently established facts.\par\smallskip
 More context can add evidence but also irrelevant instructions, competing sources, weak salience and verification cost. Identify the permitted source, preserve its boundary, then request extraction before synthesis.
 \end{block}
@@ -313,9 +315,9 @@ TargetCo PDF $\rightarrow$ application handles/parses file and manages chat/cont
 \toprule
 \textbf{Object} & \textbf{Meaning in this pathway}\\
 \midrule
-Model & The underlying generative model that produces conditional token predictions. A displayed version can matter, but it is not the entire workflow.\\
-Application & The interface/orchestration layer that may handle files, memory, system instructions, context and model routing. Comparing applications does not isolate only their models.\\
-Tool & An external capability, such as a calculator, code execution or file operation. It can retrieve or recompute something, creating a separate source and checking obligation.\\
+Model & The underlying generative model that produces conditional token predictions (e.g., Codex 5.6 Terra).\\
+Application & The interface/orchestration layer that may handle files, memory, system instructions, context and model routing (e.g., Claude code vs. Claude browser chat). \\
+Tool & An external capability, such as a calculator, code execution or file operation. It can retrieve or recompute something, creating a separate source and checking.\\
 \bottomrule
 \end{tabularx}
 \sourcewithref{Model, Application Tool in workflow}{S1-39}
@@ -325,7 +327,7 @@ Tool & An external capability, such as a calculator, code execution or file oper
 \begin{columns}[T,onlytextwidth]
 \column{0.48\textwidth}
 \begin{block}{Anthropic's 4D framework}
-\textbf{Delegation} -- decide whether, when and what to hand to AI.\par
+\textbf{Delegation} -- decide whether/when/what to hand to AI.\par
 \textbf{Description} -- communicate goal, context and standards.\par
 \textbf{Discernment} -- assess quality and usefulness.\par
 \textbf{Diligence} -- take responsibility for use and final delivery.
@@ -338,15 +340,16 @@ Tool & An external capability, such as a calculator, code execution or file oper
 \end{block}
 \end{columns}
 \smallrule
-\key{Course map:} Session 1 is principally \textbf{augmentation}: delegate extraction and drafting, retain judgement and verification. Session 6 moves closer to agency, with plans, approval points and stopping rules.
+\key{Course map:} Session 1 is principally \textbf{augmentation}: delegate extraction and drafting, retain judgement and verification. \\
+(Session 6 moves closer to agency, with plans, approval points and stopping rules.)
 \sourcewithref{Session 1 and AI fluency 4Ds}{S1-52}
 }
 
 \LiveAndFullFrame{S1-18}{Success criteria and evaluation}{
 \scriptsize
-\begin{block}{Being precise:}
-\textbf{Success criterion:} property the output must satisfy.
-VS. \textbf{Evaluation:} observable test. \\
+\begin{block}{Being clear about criteria:}
+\textbf{Success criterion:} property the output must satisfy 
+VS. \textbf{Evaluation:} observable test \\
 VS. \textbf{Failure example:} result showing the criterion was not met.
 \end{block}
 \begin{tabularx}{\textwidth}{@{}p{29mm}p{48mm}X@{}}
@@ -362,14 +365,14 @@ Prioritization / VP usefulness & Count exactly three ranked questions and inspec
 \sourcewithref{Evaluation comes before prompt cleverness.}{S1-41}
 }
 
-\LiveAndFullFrame{S1-19}{Prompt ablation: P0 through P4}{
+\LiveAndFullFrame{S1-19}{Prompt trajectory: P0 through P4}{
 \scriptsize
 \begin{tabularx}{\textwidth}{@{}p{13mm}p{46mm}X@{}}
 \toprule
 \textbf{Prompt} & \textbf{Increment} & \textbf{What it is intended to change}\\
 \midrule
 P0 & Student-composed baseline prompt from common sketch. & Establish the baseline workflow without an advanced method.\\
-P1 & (Strong) Instructor's single-shot instruction, shown after baseline. & Makes the permitted source and four output sections explicit; requests exactly three ranked questions.\\
+(P1) & (Instructor's single-shot instruction.) & (Makes the permitted source and four output sections explicit; requests exactly three ranked questions.)\\
 P2 & Analysis before drafting. & Makes extraction, contribution arithmetic and inference reviewable before prose hides an error.\\
 P3 & Explicit criteria and checks. & Uses the four observable success criteria on this slide and checks material source treatment.\\
 P4 & Extract, challenge, draft and verify across a multi-turn workflow. & Localizes errors and creates human handoff points.\\
@@ -419,7 +422,7 @@ Check the four observable success criteria: operating configuration; historical 
 \sourcewithref{Prompt-chain skeleton.}{S1-45}
 }
 
-\LiveAndFullFrame{S1-22}{Examples, structure and roles}{
+\LiveAndFullFrame{S1-22}{Missunderstanding? Examples, structure and roles}{
 \footnotesize
 \begin{tabularx}{\textwidth}{@{}p{29mm}X X@{}}
 \toprule
@@ -472,7 +475,7 @@ Both express the same logical structure.
 \toprule
 \textbf{Level} & \textbf{Question} & \textbf{TargetCo example}\\
 \midrule
-1. Output / completeness & Did the draft use the four sections and exactly three questions? & Count sections and questions; check one-page form.\\
+1. Completeness & Did the draft use the four sections and exactly three questions? & Count sections and questions; check one-page form.\\
 2. Source fidelity & Does every material number and statement reconcile to supplied evidence? & Confirm 2025A revenue = EUR 481.0m; preserve M-02 as management's statement.\\
 3. Independent check & Can a calculation, source or tool not dependent on the generated prose verify the result? & Recompute $481.0/454.0-1=5.9\%$; inspect the source table or a separate spreadsheet.\\
 \bottomrule
@@ -503,14 +506,14 @@ A qualified interpretation drawn from facts and statements.\par\smallskip
 \end{columns}
 \begin{block}{Operational workflow}
 1. AI proposes a classification for each material statement. \\
-2. AI supplies a source locator and rationale. \\
-3. Analyst verifies source and decides whether inference is warranted.\\
+2. AI supplies a source reference + rationale. \\
+3. Analyst verifies source and decides about the inference.\\
 4. Correct misclassified or unsupported claims before drafting.
 \end{block}
 %\sourcewithref{INSTRUCTOR SYNTHESIS; TARGETCO APPLICATION.}{S1-54}
 }
 
-\LiveAndFullFrame{S1-26}{An evidence matrix records support and limits}{
+\LiveAndFullFrame{S1-26}{An evidence matrix records evidence and especially limits}{
 \scriptsize
 \begin{tabularx}{\textwidth}{@{}p{29mm}p{33mm}p{28mm}X@{}}
 \toprule
@@ -529,7 +532,9 @@ It makes uncertainty explicit rather than hiding it in polished prose.
 
 \LiveAndFullFrame{S1-27}{Redo: a new chat, the same source pack}{
 \begin{block}{15-minute redo}
-Start a \textbf{different fresh ephemeral chat}. ChatGPT groups use Temporary chat (where available). Claude groups use Incognito chat (where available). \\
+Start a \textbf{different fresh chat}.\\
+ChatGPT groups use Temporary chat (where available). \\
+Claude groups use Incognito chat (where available). \\
 Former human-only groups receive AI access and may split between applications.
 \end{block}
 \begin{columns}[T,onlytextwidth]
@@ -552,7 +557,7 @@ The fresh chat separates redo from baseline.
 \item short baseline-versus-redo reflection.
 \end{itemize}
 \end{columns}
-\sourcewithref{Instructor's prompt sequence.}{S1-50}
+%\sourcewithref{Instructor's prompt sequence.}{S1-50}
 }
 
 \LiveAndFullFrame{S1-28}{Post-redo answer I: synthesis and historical economics}{
@@ -578,13 +583,13 @@ Revenue rose from EUR 438.0m in 2022A to EUR 481.0m in 2025A. In 2023A, +6.1 ppt
 \item \textbf{``Non-recurring'' across two years:} two-year duration weakens automatic one-off treatment, but does not prove recurrence.
 \end{itemize}
 \column{0.50\textwidth}
-\key{Three ranked questions -- and why}
+\key{Three ranked questions}
 \begin{enumerate}
 \item \textbf{What bridges margin from 2022A to 2025A and supports run-rate?}\\
 It could change margin forecasts and valuation.
 \item \textbf{What is the nature and duration of 2024A-2025A commissioning/quality costs?}\\
 It could change normalization judgement.
-\item \textbf{How broad and durable is volume recovery by customer, channel, end market and facility?} 
+\item \textbf{How broad and durable is volume recovery by customer, channel, end market and facility?} \\
 It could change revenue confidence, risk and peer selection.
 \end{enumerate}
 \end{columns}
@@ -701,8 +706,8 @@ In Session 2, the question becomes whether a historical Excel model can be trust
 \column{0.48\textwidth}
 \begin{block}{Business profile: why each dimension matters}
 \begin{itemize}
-\item Sector/subsector frames drivers, cyclicality and a starting universe.
-\item Products/services distinguish commodity-like supply from specified or service-intensive offers.
+\item Sector/subsector frames drivers, cyclicality, etc.
+\item Products/services distinguish commodity-like supply from specified/service-intensive offers.
 \item Customers/end markets distinguish purchaser from demand exposure.
 \item Channels/geography can alter commercial model, cost base and comparability.
 \end{itemize}
@@ -711,9 +716,9 @@ In Session 2, the question becomes whether a historical Excel model can be trust
 \begin{block}{Financial profile: why selected dimensions matter}
 \begin{itemize}
 \item Size can correlate with scale and market comparability.
-\item Profitability describes conversion of sales into profit; it is not a forecast.
-\item Growth needs a driver-level reading, not only a percentage.
-\item Returns/credit require later data and calculations.
+\item Profitability describes conversion of sales into profit.
+\item Growth needs a driver-level reading.
+\item Returns/credit require later calculations.
 \end{itemize}
 \end{block}
 \end{columns}
@@ -726,15 +731,16 @@ In Session 2, the question becomes whether a historical Excel model can be trust
 \toprule
 \textbf{Evidence supplied} & \textbf{A cautious analyst may say} & \textbf{A cautious analyst must stop short of saying}\\
 \midrule
-End-market, geography, channel and concentration percentages & Reported mix and configuration merit follow-up. & Concentration is high/low, commercially good/bad or contractually secure.\\
-Revenue bridge, utilization and margin history & 2023A price/mix contribution offsets falling volume; 2025A has a larger volume contribution; utilization and margin recover from 2024A. & A quantified causal bridge, facility margin or sustainable run-rate.\\
+End-market, geography, channel and concentration percentages & Reported mix and configuration follow-up. & Concentration is high/low, commercially good/bad or contractually secure.\\
+Revenue bridge, utilization and margin history & 2023A price/mix contribution offsets falling volume; 2025A has a larger volume contribution; utilization and margin recover from 2024A. & A quantified causal connection, or sustainable run-rate.\\
 M-01 and M-02 management statements & What management says about recovery levers and cost classification. & That recovery will occur or an adjustment is justified.\\
 \bottomrule
 \end{tabularx}
 \begin{block}{Classroom purpose}
-The analyst must synthesize, calculate, challenge and prioritize. The short source pack is deliberately incomplete, not a hidden answer.
+The analyst must synthesize, calculate, challenge and prioritize.\\
+The short deck is deliberately incomplete!
 \end{block}
-\sourcewithback{Back.}{S1-10}
+\sourcewithback{Back.}{S1-12}
 %\sourcewithback{TARGETCO APPLICATION; INSTRUCTOR SYNTHESIS.}{S1-10}
 }
 
