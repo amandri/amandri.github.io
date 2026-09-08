@@ -9,11 +9,11 @@
 
 current_courses:
   - name: "Artificial Intelligence for Corporate Finance"
-    term: "2027"
+    term: "Fall 2026"
     weeks:
       - week: "1"
         topics:
-          - name: "Session 1"
+          - name: "Study the Target(Co)"
             materials:
               - name: "Session 1 slides"
                 path: "/assets/slides/teaching/2027/2027_BAwAI/1_session_full/materials/session01_full.pdf"
@@ -23,11 +23,11 @@ current_courses:
                 path: "/assets/slides/teaching/2027/2027_BAwAI/1_session_full/materials/TargetCo_VP_request.pdf"
 
   - name: "Asset Pricing Theory"
-    term: "2027"
+    term: "Fall 2026"
     weeks:
       - week: "1"
         topics:
-          - name: "Session 1"
+          - name: "No-Arbitrage, State Prices, and the Stochastic Discount Factor"
             # The page automatically lists the PDF(s) in this folder.
             # This avoids having to hard-code the filename here.
             material_folder: "/assets/slides/teaching/2027/2027_APT/1_session/"
