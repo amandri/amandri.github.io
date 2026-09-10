@@ -10,6 +10,13 @@
 #
 # Add new items at the TOP of this list.
 
+- date: 2026-09-09
+  type: teaching
+  badge: "Slides"
+  title: "Python: An introduction"
+  link: /teaching/
+  pin: true
+
 - date: 2026-09-08
   type: teaching
   badge: "Slides"
@@ -21,17 +28,10 @@
 - date: 2026-09-08
   type: teaching
   badge: "Slides"
-  title: "Artificial Intelligence for Corporate Finance"
+  title: "AI for Corporate Finance"
   link: /teaching/
   pin: true
 
-
-- date: 2026-07-28
-  type: thesis
-  badge: "Supervision"
-  title: "Kaouthar Dian's Imputed walk down Wall Street"
-  link: /data-code/
-  pin: true
 
 
 
