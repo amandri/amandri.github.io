@@ -32,6 +32,18 @@ current_courses:
             # This avoids having to hard-code the filename here.
             material_folder: "/assets/slides/teaching/2027/2027_APT/1_session/"
 
+  - name: "Python: An Introduction"
+    term: "Fall 2026"
+    weeks:
+      - week: "1"
+        topics:
+          - name: "Python 101"
+            materials:
+              - name: "Session 1 slides"
+                path: "/assets/slides/teaching/2027/2027_Py/1_session/1_session.pdf"
+              - name: "Session 1 Jupyter Notebook"
+                path: "/assets/slides/teaching/2027/2027_Py/1_session/Session1_Companion.ipynb"
+
 past_teaching:
   - year: 2026
     courses:
