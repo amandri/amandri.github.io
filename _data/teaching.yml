@@ -21,6 +21,22 @@ current_courses:
                 path: "/assets/slides/teaching/2027/2027_BAwAI/1_session_full/materials/TargetCo_company_profile.pdf"
               - name: "TargetCo VP request"
                 path: "/assets/slides/teaching/2027/2027_BAwAI/1_session_full/materials/TargetCo_VP_request.pdf"
+              - name: "Prompts for the AI workflow"
+                path: "/assets/slides/teaching/2027/2027_BAwAI/1_session_full/materials/SESSION1_INSTRUCTOR_AI_WORKFLOW.md"
+
+      - week: "2"
+        topics:
+          - name: "The spreadsheet arrives"
+            materials:
+              - name: "Session 2 slides"
+                path: "/assets/slides/teaching/2027/2027_BAwAI/2_session_full/materials/session02_full.pdf"
+              - name: "TargetCo spreadsheet"
+                path: "/assets/slides/teaching/2027/2027_BAwAI/2_session_full/materials/TargetCo_historical_model.xlsx"
+              - name: "TargetCo Prompts for the AI workflow"
+                path: "/assets/slides/teaching/2027/2027_BAwAI/2_session_full/materials/SESSION2_PROMPT_CARD.pdf"
+              - name: "Prompts for the Excel Audit Assistant"
+                path: "/assets/slides/teaching/2027/2027_BAwAI/2_session_full/materials/SESSION2_EXCEL_AUDIT_ASSISTANT_SPEC.md"         
+
 
   - name: "Asset Pricing Theory"
     term: "Fall 2026"

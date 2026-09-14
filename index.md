@@ -7,7 +7,7 @@ description: "Amedeo Andriollo — AP of Finance at Université Paris Dauphine �
 
 # About Amedeo
 
-I am an Assistant Professor of Finance at the [Université Paris Dauphine – PSL (DRM)](https://dauphine.psl.eu). 
+I am an Assistant Professor of Finance at the [Université Paris Dauphine – PSL (DRM)](https://drm.dauphine.fr/fr/drm/membres/detail-cv/profile/amedeo-andriollo.html). 
 
 My research lies at the intersection of econometrics, time series, and financial econometrics.
 
@@ -28,7 +28,7 @@ I graduated from the [University of Warwick](https://warwick.ac.uk/fac/soc/econo
   },
   "alumniOf": {
     "@type": "CollegeOrUniversity",
-    "name": "University of Warwick — Warwick Business School"
+    "name": "University of Warwick"
   },
   "knowsAbout": [
     "Econometrics",
