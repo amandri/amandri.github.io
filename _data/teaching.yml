@@ -59,6 +59,18 @@ current_courses:
                 path: "/assets/slides/teaching/2027/2027_Py/1_session/1_session.pdf"
               - name: "Session 1 Jupyter Notebook"
                 path: "/assets/slides/teaching/2027/2027_Py/1_session/Session1_Companion.ipynb"
+      - week: "2"
+        topics:
+          - name: "NumPy, Matplotlib, and Pandas"
+            materials:
+              - name: "Session 2 slides"
+                path: "/assets/slides/teaching/2027/2027_Py/2_session/2_session.pdf"
+              - name: "Session 2 Jupyter Notebook"
+                path: "/assets/slides/teaching/2027/2027_Py/2_session/Session2_Companion.ipynb"
+              - name: "Solution to session 1 exercise"
+                path: "/assets/slides/teaching/2027/2027_Py/2_session/password_cracker_solution.ipynb"
+              - name: "Session 2 data csv"
+                path: "/assets/slides/teaching/2027/2027_Py/2_session/session2_sales.csv"
 
 past_teaching:
   - year: 2026
