@@ -44,15 +44,15 @@ current_courses:
         topics:
           - name: "AI-augmented Valuation"
             materials:
-              - name: "Session 2 slides"
+              - name: "Session 3 slides"
                 path: "/assets/slides/teaching/2027/2027_BAwAI/3_session_full/materials/session03_full.pdf"
-              - name: "TargetCo spreadsheet"
+              - name: "Tasks"
                 path: "/assets/slides/teaching/2027/2027_BAwAI/3_session_full/materials/SESSION3_TASK.pdf"
-              - name: "TargetCo Prompts for the AI workflow"
+              - name: "TargetCo Management Case"
                 path: "/assets/slides/teaching/2027/2027_BAwAI/3_session_full/materials/TargetCo_management_case.pdf"
-              - name: "Prompts for the Excel Audit Assistant"
+              - name: "TargetCo valuation deck"
                 path: "/assets/slides/teaching/2027/2027_BAwAI/3_session_full/materials/TargetCo_valuation_evidence_pack.pdf"   
-              - name: "Audit assistant chat example"
+              - name: "TargetCo valuation workbook"
                 path: "/assets/slides/teaching/2027/2027_BAwAI/3_session_full/materials/TargetCo_valuation_workbook.xlsx"       
 
 
