@@ -35,7 +35,25 @@ current_courses:
               - name: "TargetCo Prompts for the AI workflow"
                 path: "/assets/slides/teaching/2027/2027_BAwAI/2_session_full/materials/SESSION2_PROMPT_CARD.pdf"
               - name: "Prompts for the Excel Audit Assistant"
-                path: "/assets/slides/teaching/2027/2027_BAwAI/2_session_full/materials/SESSION2_EXCEL_AUDIT_ASSISTANT_SPEC.md"         
+                path: "/assets/slides/teaching/2027/2027_BAwAI/2_session_full/materials/SESSION2_EXCEL_AUDIT_ASSISTANT_SPEC.md"   
+              - name: "Audit assistant chat example"
+                path: "/assets/slides/teaching/2027/2027_BAwAI/2_session_full/materials/excel_audit_assistant_conversation.md"   
+
+
+      - week: "3"
+        topics:
+          - name: "AI-augmented Valuation"
+            materials:
+              - name: "Session 2 slides"
+                path: "/assets/slides/teaching/2027/2027_BAwAI/3_session_full/materials/session03_full.pdf"
+              - name: "TargetCo spreadsheet"
+                path: "/assets/slides/teaching/2027/2027_BAwAI/3_session_full/materials/SESSION3_TASK.pdf"
+              - name: "TargetCo Prompts for the AI workflow"
+                path: "/assets/slides/teaching/2027/2027_BAwAI/3_session_full/materials/TargetCo_management_case.pdf"
+              - name: "Prompts for the Excel Audit Assistant"
+                path: "/assets/slides/teaching/2027/2027_BAwAI/3_session_full/materials/TargetCo_valuation_evidence_pack.pdf"   
+              - name: "Audit assistant chat example"
+                path: "/assets/slides/teaching/2027/2027_BAwAI/3_session_full/materials/TargetCo_valuation_workbook.xlsx"       
 
 
   - name: "Asset Pricing Theory"
