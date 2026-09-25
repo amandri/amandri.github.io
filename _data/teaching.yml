@@ -62,9 +62,12 @@ current_courses:
       - week: "1"
         topics:
           - name: "No-Arbitrage, State Prices, and the Stochastic Discount Factor"
-            # The page automatically lists the PDF(s) in this folder.
-            # This avoids having to hard-code the filename here.
-            material_folder: "/assets/slides/teaching/2027/2027_APT/1_session/"
+            path: "/assets/slides/teaching/2027/2027_APT/1_session/1_session.pdf" 
+      - week: "2"
+        topics:
+          - name: "CARA, CRRA, Habit, Disasters and Surpluses"
+            path: "/assets/slides/teaching/2027/2027_APT/2_session/2_session.pdf"       
+
 
   - name: "Python: An Introduction"
     term: "Fall 2026"
