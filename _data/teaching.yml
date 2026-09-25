@@ -95,7 +95,19 @@ current_courses:
               - name: "Solution to session 1 exercise"
                 path: "/assets/slides/teaching/2027/2027_Py/2_session/password_cracker_solution.ipynb"
               - name: "Session 2 data csv"
-                path: "/assets/slides/teaching/2027/2027_Py/2_session/session2_sales.csv"
+                path: "/assets/slides/teaching/2027/2027_Py/2_session/data/session2_sales.csv"
+      - week: "3"
+        topics:
+          - name: "In-class exercise"
+            materials:
+              - name: "In-class correction (slides)"
+                path: "/assets/slides/teaching/2027/2027_Py/3_session/Session3_InClass_Correction.pdf"
+              - name: "In-class exercises"
+                path: "/assets/slides/teaching/2027/2027_Py/3_session/Session3_InClass_Exercises.ipynb"
+              - name: "Solution to session 2 exercise"
+                path: "/assets/slides/teaching/2027/2027_Py/3_session/Session2_Homework_Solutions.ipynb"
+              - name: "Session 3 data csv"
+                path: "/assets/slides/teaching/2027/2027_Py/3_session/data/session3_parcel_reliability.csv"
 
 past_teaching:
   - year: 2026
