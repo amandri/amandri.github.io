@@ -98,7 +98,7 @@ current_courses:
                 path: "/assets/slides/teaching/2027/2027_Py/2_session/data/session2_sales.csv"
       - week: "3"
         topics:
-          - name: "In-class exercise"
+          - name: "In-class exercises"
             materials:
               - name: "In-class correction (slides)"
                 path: "/assets/slides/teaching/2027/2027_Py/3_session/Session3_InClass_Correction.pdf"
@@ -108,6 +108,16 @@ current_courses:
                 path: "/assets/slides/teaching/2027/2027_Py/3_session/Session2_Homework_Solutions.ipynb"
               - name: "Session 3 data csv"
                 path: "/assets/slides/teaching/2027/2027_Py/3_session/data/session3_parcel_reliability.csv"
+      - week: "3"
+        topics:
+          - name: "Guided exercises"
+            materials:
+              - name: "Session 4 Jupyter Notebook"
+                path: "/assets/slides/teaching/2027/2027_Py/4_session/Session4_Algorithmic_Decomposition.ipynb"
+              - name: "Session 4 data (parcels)"
+                path: "/assets/slides/teaching/2027/2027_Py/4_session/data/session4_parcel_reliability.csv"
+              - name: "Session 4 data (portfolio prices)"
+                path: "/assets/slides/teaching/2027/2027_Py/4_session/data/session4_portfolio_prices.csv"
 
 past_teaching:
   - year: 2026
