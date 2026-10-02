@@ -100,15 +100,13 @@ current_courses:
         topics:
           - name: "In-class exercises"
             materials:
-              - name: "In-class correction (slides)"
-                path: "/assets/slides/teaching/2027/2027_Py/3_session/Session3_InClass_Correction.pdf"
               - name: "In-class exercises"
                 path: "/assets/slides/teaching/2027/2027_Py/3_session/Session3_InClass_Exercises.ipynb"
               - name: "Solution to session 2 exercise"
                 path: "/assets/slides/teaching/2027/2027_Py/3_session/Session2_Homework_Solutions.ipynb"
               - name: "Session 3 data csv"
                 path: "/assets/slides/teaching/2027/2027_Py/3_session/data/session3_parcel_reliability.csv"
-      - week: "3"
+      - week: "4"
         topics:
           - name: "Guided exercises"
             materials:
