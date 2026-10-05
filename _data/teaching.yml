@@ -53,7 +53,14 @@ current_courses:
               - name: "TargetCo valuation deck"
                 path: "/assets/slides/teaching/2027/2027_BAwAI/3_session_full/materials/TargetCo_valuation_evidence_pack_v.pdf"   
               - name: "TargetCo valuation workbook"
-                path: "/assets/slides/teaching/2027/2027_BAwAI/3_session_full/materials/TargetCo_valuation_workbook.xlsx"       
+                path: "/assets/slides/teaching/2027/2027_BAwAI/3_session_full/materials/TargetCo_valuation_workbook.xlsx"     
+
+      - week: "4"
+        topics:
+          - name: "Agents"
+            materials:
+              - name: "Session 3.5 slides"
+                path: "/assets/slides/teaching/2027/2027_BAwAI/3.5_session_full/materials/session035_full.pdf" 
 
 
   - name: "Asset Pricing Theory"
