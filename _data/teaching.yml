@@ -130,7 +130,7 @@ current_courses:
               - name: "Session 4 data (portfolio prices)"
                 path: "/assets/slides/teaching/2027/2027_Py/4_session/data/session4_portfolio_prices.csv"
               - name: "Session 4 Solutions"
-                path: "/assets/slides/teaching/2027/2027_Py/5_session/data/Session4_Solutions.ipynb"
+                path: "/assets/slides/teaching/2027/2027_Py/5_session/Session4_Solutions.ipynb"
 
 past_teaching:
   - year: 2026
