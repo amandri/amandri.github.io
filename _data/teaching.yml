@@ -71,13 +71,19 @@ current_courses:
           - name: "No-Arbitrage, State Prices, and the Stochastic Discount Factor"
             materials:
               - name: "Session 1 slides"
-              - path: "/assets/slides/teaching/2027/2027_APT/1_session/1_session.pdf" 
+                path: "/assets/slides/teaching/2027/2027_APT/1_session/1_session.pdf" 
       - week: "2"
         topics:
           - name: "CARA, CRRA, Habit, Disasters and Surpluses"
             materials:
               - name: "Session 2 slides"
-              - path: "/assets/slides/teaching/2027/2027_APT/2_session/2_session.pdf"       
+                path: "/assets/slides/teaching/2027/2027_APT/2_session/2_session.pdf"   
+      - week: "3"
+        topics:
+          - name: "Dynamic Consumption and Portfolio Choice"
+            materials:
+              - name: "Session 3 slides"
+                path: "/assets/slides/teaching/2027/2027_APT/3_session/3_session.pdf"      
 
 
   - name: "Python: An Introduction"
