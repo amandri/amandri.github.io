@@ -62,6 +62,15 @@ current_courses:
               - name: "Session 3.5 slides"
                 path: "/assets/slides/teaching/2027/2027_BAwAI/3.5_session_full/materials/session035_full.pdf" 
 
+      - week: "5"
+        topics:
+          - name: "A snapshot of data science with Python"
+            materials:
+              - name: "Jupyter Notebook"
+                path: "/assets/slides/teaching/2027/2027_BAwAI/4_session_full/materials/SBGP_integrated.ipynb" 
+              - name: "Dataset"
+                path: "/assets/slides/teaching/2027/2027_BAwAI/4_session_full/materials/WestRoxbury.csv" 
+
 
   - name: "Asset Pricing Theory"
     term: "Fall 2026"
