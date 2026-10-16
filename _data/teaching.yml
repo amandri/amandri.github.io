@@ -145,7 +145,7 @@ current_courses:
           - name: "Object-oriented programming and mock exam"
             materials:
               - name: "Object-oriented programming"
-                path: "/assets/slides/teaching/2027/2027_Py/6_session/object.pdf"
+                path: "/assets/slides/teaching/2027/2027_Py/6_session/objects.pdf"
               - name: "Mock exam"
                 path: "/assets/slides/teaching/2027/2027_Py/6_session/Exam_Practice.ipynb"
               - name: "Solution to mock exam"
