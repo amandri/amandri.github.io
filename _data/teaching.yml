@@ -93,6 +93,12 @@ current_courses:
             materials:
               - name: "Session 3 slides"
                 path: "/assets/slides/teaching/2027/2027_APT/3_session/3_session.pdf"      
+      - week: "4"
+        topics:
+          - name: "Production-Based Asset Pricing"
+            materials:
+              - name: "Session 4 slides"
+                path: "/assets/slides/teaching/2027/2027_APT/4_session/4_session.pdf"
 
 
   - name: "Python: An Introduction"
