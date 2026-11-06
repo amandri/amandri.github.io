@@ -99,6 +99,12 @@ current_courses:
             materials:
               - name: "Session 4 slides"
                 path: "/assets/slides/teaching/2027/2027_APT/4_session/4_session.pdf"
+      - week: "5"
+        topics:
+          - name: "Asset Pricing with Frictions"
+            materials:
+              - name: "Session 5 slides"
+                path: "/assets/slides/teaching/2027/2027_APT/5_session/5_session.pdf"
 
 
   - name: "Python: An Introduction"
