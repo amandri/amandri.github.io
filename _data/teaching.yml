@@ -71,6 +71,15 @@ current_courses:
               - name: "Dataset"
                 path: "/assets/slides/teaching/2027/2027_BAwAI/4_session_full/materials/WestRoxbury.csv" 
 
+      - week: "6"
+        topics:
+          - name: "Final Exam"
+            materials:
+              - name: "Supporting information"
+                path: "/assets/slides/teaching/2027/2027_BAwAI/exam/Brevane_supporting_information.pdf" 
+              - name: "Spreadsheet"
+                path: "/assets/slides/teaching/2027/2027_BAwAI/exam/Brevane_valuation_workbook.xlsx" 
+
 
   - name: "Asset Pricing Theory"
     term: "Fall 2026"
