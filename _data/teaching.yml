@@ -114,7 +114,14 @@ current_courses:
             materials:
               - name: "Session 5 slides"
                 path: "/assets/slides/teaching/2027/2027_APT/5_session/5_session.pdf"
-
+      - week: "6"
+        topics:
+          - name: "In-class Exam"
+            materials:
+              - name: "Assignment"
+                path: "/assets/slides/teaching/2027/2027_APT/1_exam/exam.pdf"
+              - name: "Assignment"
+                path: "/assets/slides/teaching/2027/2027_APT/1_exam/solutions.pdf"
 
   - name: "Python: An Introduction"
     term: "Fall 2026"
