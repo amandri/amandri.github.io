@@ -120,7 +120,7 @@ current_courses:
             materials:
               - name: "Assignment"
                 path: "/assets/slides/teaching/2027/2027_APT/1_exam/exam.pdf"
-              - name: "Assignment"
+              - name: "Solutions"
                 path: "/assets/slides/teaching/2027/2027_APT/1_exam/solutions.pdf"
 
   - name: "Python: An Introduction"
